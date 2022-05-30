@@ -2,7 +2,7 @@
 description: See What Sections We Want From GreenPilled
 ---
 
-# GreenPill
+# Timothy GreenPill
 
 &#x20;
 

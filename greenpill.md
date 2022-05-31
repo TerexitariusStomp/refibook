@@ -4,9 +4,7 @@ description: See What Sections We Want From GreenPilled
 
 # T.R. GreenPill
 
-&#x20;How Does humanity coordinate?
 
-What Are Coordination Failures- systemic risks to human thriving (Moloch)&#x20;
 
 Exchange of Value- History of Money
 
@@ -478,14 +476,6 @@ Universal Basic Income -  a sociopolitical financial transfer concept in which a
 
 Aqueduct- a conduit built to transfer water.  In the internet of money, aqueducts have been set up to directly transfer 1% to projects like Gitcoin, Radicle Drips, or the Protocol Guild.  Some projects that receive aqueducts decide to pay their revenues forward to other projects, creating a series of multi-level aqueducts.
 
-Funding Distribution Mechanisms
-
-112
-
-&#x20;
-
-&#x20;
-
 Voting Mechanisms
 
 Ranked Choice Voting- an electoral system in which voters rank candidates by preference on their ballots. &#x20;
@@ -508,81 +498,29 @@ Quadratic Voting - a collective decision-making procedure which involves individ
 
 Conviction Voting offers a novel decision making process that funds proposals based on the aggregated preference of community members, expressed continuously. By allowing the voting mecahnism to take into account conviction, a more optimal expression of preferences can be achieved.
 
-113
-
-&#x20;
-
-&#x20;
-
 Mechanisms cont’d
 
 Staking - a way of putting tokens at risk in order to express conviction in a specific thing (at an individual level) or secure a system (at a system level).  Staked funds are subject to slashing if stakers or they objects they stake upon misbehave.
 
-&#x20;
-
 Bonding Curve - A scheme in which the price of a token is determined by its supply. The more tokens that have been distributed, the higher the price + visa versa.  Typically used as an elegant mechanism to manage scarcity + price.
-
-&#x20;
 
 Community Inclusion Currencies (CICs) are assignable credit obligations redeemable for goods & services.  These can be issued by communities to develop sustainable local markets when National Currencies are scarce.&#x20;
 
-&#x20;
-
 Fractal DAO protocols, They make 'subsidiarity' easier to implement; Subsidiarity is critical for scalable informed participatory governance. Orca, 1hive Swarms are examples.
 
-&#x20;
-
 Natural Capital backed Assets. Strictly necessary to align regnerative finance with physical/natural world, not just social/economic world. CurveLabs and Kolectivo (formerly CuraDAO) are piloting these.
-
-114
-
-&#x20;
-
-&#x20;
 
 Mechanisms cont’d
 
 Multisig Wallets - Multisig wallets allow a group of n people to control the actions of a cryptocurrency wallet if m of the n people agree on a single transaction, on a transaction by transaction basis.&#x20;
 
-&#x20;
-
 Worker co-ops - A co op is a group of workers who have united to meet their common needs and operations through a jointly owned enterperise.  Co-ops have been around for a while, but what is new in web3 is the opportunity to allow them to hit webscale or go global.
-
-&#x20;
 
 Data co-ops - A group organized for sharing pooled data from online consumers between two or more companies.  Within a data co op, members offer their data to the collective - which creates an opportunity for more economic leverage for the sale of one’s data than any individual collective member could have.. &#x20;
 
-&#x20;
-
-Miner Extractable Value - the maximum amount of value that can be extracted from the block production process (in excess of the standard block rewards and fees).  Tangibly, this means that block producers can reorder transactions in order to front-run others transactions - which in some cases can lead to a lot of profit.
-
-115
-
-&#x20;
-
-&#x20;
-
 Harberger tax - a mechansim that allows an ecosystem to strike a balance between pure private ownership & total commons ownership of a resource. &#x20;
 
-&#x20;
-
-Citizens value their own property and pay tax on that value. A self-assessed tax.
-
-At any point in time, anyone else can buy the property from you at that price, forcing a sale.
-
-&#x20;
-
 Lossless Lotteries - A way of running a lottery such that even if you do not win the lottery, you get to keep the price of admission into such lottery.  By allowing users to stake funds in a lottery, and then using those funds to generate yield and rewarding the winner of the lottery with those yields,  lossless lotteries are able to create a positive sum way of generating funds for winners (but without taking funds from the losers).
-
-Mechanisms cont’d
-
-116
-
-&#x20;
-
-&#x20;
-
-Unsolved Problems & Opportunities
 
 Money Legos - Composability is the interoperability of different pieces of the internet of money such that they could be assembled like legos. Each new money lego is a freely available public good for any builder to use - creating an opportunity for each net-new builder in the space to “stand on the shoulders of giants”.   It’s what creates the conditions that allow for the creation of exponentially more unique combinations of mechanisms over time.&#x20;
 
@@ -590,129 +528,21 @@ Money Legos - Composability is the interoperability of different pieces of the i
 
 Moving beyond 1:1 coin voting is an opportunity to create more cartel-resistant forms of governance. There are inequalities and incentive misalignments even in the absence of attackers (these systems can be dominated by the rich & powerful), and (outright attacks through various forms of (often obfuscated) vote buying in 1:1 coin voting systems.
 
-&#x20;
 
-Closing the gap between value creation & value capture remains a huge opportunity for funding public goods.  The more people can worry about value creation & less they worry about value capture from business models, the more they are focusing on the public good.  Mechanisms that measure value creation & reward participants for that value creation are possible with more objective (or intersubjective) measurement of value creation.
 
-117
-
-&#x20;
-
-&#x20;
-
-Unsolved Problems & Opportunities cont’d
+Measuring value creation instead of value capture
 
 Decentralized Reputation Systems - Because so much value transfer in the world depends on the reputation of the parties in the transaction, it could be argued that Identity is an important part of the internet of value.
 
-&#x20;
-
-When I get a job, I want to know who I am working with.
-
-When I loan someone money, I want to know their history of repayments.
-
-When I invest in a company, I want to know the founder’s reputation to understand their character.
-
-When I get into an Uber, I want to know that my driver’s reputation is free of major incidents.
-
-When I log in to my social feed, I want to know the credibility of the content/authors I see.
-
-&#x20;
-
 Proof of Personhood - If we could find a cryptoeconomic way to prove unique human-ness, we could move the internet of finance from “one token one vote” to “one human one vote” and unleash a wave of digital democracy. With proof of personhood, the ecosystem could move to DAOs built on one-human-one-vote. This unlocks use cases like:
-
-quadratic funding
-
-one-person-one-vote  or quadratic votingDAOs
 
 Gini coefficient measurements
 
-UBI
+The new world privacy model will be built around zero knowledge proofs, eg you will be able to prove attributes about yourself without revealing any more personal information about yourselves.
 
-\+ other use cases we havent discovered yet!
+&#x20;dependance on Web2 Social Media
 
-118
-
-&#x20;
-
-&#x20;
-
-Privacy! Privacy! Privacy! - To prevent many dystopian outcomes, Privacy must be baked in to these mechanisms from the start. &#x20;
-
-&#x20;
-
-The old world model of privacy is broken. The new world privacy model will be built around zero knowledge proofs, eg you will be able to prove attributes about yourself without revealing any more personal information about yourselves.
-
-&#x20;
-
-Persistent Pseudonomous Identities will be a thing -- People will need practical ways to let people build deep long standing reputations without practically doxxing their real world identities.  Organically, ETH addresses with long complex history of transactions, NFTs and ENS are nice but its time frame, frequency and diversity transactions that are hard to fake / duplicate.
-
-&#x20;
-
-Other unsolved problems may exist, especially in systems with :
-
-High wealth inequality
-
-High levles of plutocracy or collusion
-
-High energy Inefficiency (In some networks)
-
-High misinformation & tribalism or dependance on Web2 Social Media
-
-Highly extractive economics
-
-Lack of education
-
-Lack of access
-
-Lack of diversity
-
-Unsolved Problems & Opportunities cont’d
-
-119
-
-&#x20;
-
-&#x20;
-
-ImpactDAO Ratings DAO - ImpactDAOs are the atomic unit of the Regenerative CryptoEconomics movement.  The positive externalities produced by each ImpactDAO, when stacked upon each other, will hopefuly create an entire Regenerative CryptoEconomics stack.
-
-&#x20;
-
-But how are we to know which ImpactDAOs are truly having impact and which are just marketing?  “don’t trust, verify” is a mantra among cryptographers, how can we apply this to the growing field of ImpactDAOs?
-
-&#x20;
-
-Having an ImpactDAO Ratings DAO, which catalogued the positive and negative externalities of each ImpactDAO, would be an import piece of infrastructure (provided that it is governed in a transparent & credibly neutral way, to gain the legitimacy needed to be seen as impartial)
-
-Unsolved Problems & Opportunities cont’d
-
-120
-
-&#x20;
-
-&#x20;
-
-It would be possible to overemphasize to creation of an academically perfect system, and in doing so, forget about the cultural & memetic needs of a community. &#x20;
-
-&#x20;
-
-Starting with small pods of culture that are themselves healthy is a must.  As a founder, your actions inform the actions of the first 5 people in your project.  Those 5 inform the next 20, which informs the next 100, and so on.
-
-&#x20;
-
-Peter Pan, the founder of MetaCartel, one of the most prominent & first DAOs in web3, is a shining example of this.  He formed MetaCartel as a series of “pods” with their own individual culture, vibes, and mission.  Metacartel is not a single monolithic group.  Each pod had its own mission, goals, and focus and tightly curated culture.  They each started small + only grew when they were ready.  Once they grew, they retroactive gave away governance rights based upon the values they had set early.
-
-Starting small with healthy culture
-
-121
-
-&#x20;
-
-&#x20;
-
-Here are a few meta-patterns you will find across different regenerative cryptoeconomic systems:
-
-&#x20;
+MetaCartel as a series of “pods” with their own individual culture, vibes, and mission.  Metacartel is not a single monolithic group.  Each pod had its own mission, goals, and focus and tightly curated culture.&#x20;
 
 &#x20;\- pluralism: skin to biodiversity.  The more pluralism there is  across an ecosystem, this creates more antifragility as it grows.
 
@@ -728,57 +558,9 @@ Here are a few meta-patterns you will find across different regenerative cryptoe
 
 of a system is disconnected from the value capture, there will be an inherent misalignment between the incentives of actors in the system to focus on the capture of value instead of the creation of it.  Therefore regenerative cryptoeconomic systems aim for symmetry between value creation & value capture.
 
-Meta-patterns
-
-122
-
-&#x20;
-
-&#x20;
-
 Robust Signal Emission
 
-An alternative to governance via voting (which has historically had issues with plutocracy and low voter turnout) is robust signal emission.
-
-&#x20;
-
-The measurement of value creation via robust signal creation is a powerful way to allocate funds to an ecosystem of participants at scale.
-
-&#x20;
-
-By measuring what communities of participants within an ecosystem value, an intersubjective consensus of the value creation from that ecosystem is created.  This intersubjetive consensus can form the basis of a distribution of retroactive tokenized rewards.
-
-The economic graph of Gitcoin Grants Round 11
-
-123
-
 CoordinAPE Gift Circle for BanklessDAO Season 1
-
-&#x20;
-
-&#x20;
-
-Trigger
-
-Investment
-
-Reward
-
-Action
-
-External Trigger:
-
-Facebook, Twitter
-
-Interesting&#x20;
-
-objects
-
-Re-pin, follow,&#x20;
-
-comment
-
-Scroll
 
 Robust Signal Generation
 
@@ -786,392 +568,24 @@ User Engagement Feedback Loop
 
 Of course, in order to create a robust set of signals, one needs to have an active ecosystem of participants.
 
-&#x20;
-
-To that end, there are a number of engagement hacking techniques that were pioneered in the web2 days, which also work in the web3 space.
-
-&#x20;
-
-While they are not regenerative in nature themselves, they can be assmebled into regenerative cryptoeconomic systems wherein their data emissions can be analyzed for regenerative purposes, and we include them on this basis.
-
-Widely articulated by Pintrest, this articulation of a feedback loop of user engagement is designed to keep users engaged by triggering their interest to perform some action, for when they are given a reward + are prompted to make further investment of time or other resources.
-
-124
-
-&#x20;
-
-&#x20;
-
-Costly and weak
-
-Cheap but powerful
-
-Status
-
-Access
-
-Power
-
-Stuff
-
-Frustration
-
-Boredom
-
-Skill Level
-
-Challenge Level
-
-Onboard
-
-Immerse
-
-Master
-
-Balancing&#x20;
-
-Challenge + Skill
+&#x20;feedback loop of user engagement is designed to keep users engaged by triggering their interest to perform some action, for when they are given a reward + are prompted to make further investment of time or other resources.
 
 When onboarding users into a system, cryptoeconomic or otherwise, be careful to balance between challenge and skill.  Too far to one side, and the user gets bored.  Too far to another, and they get frustrated.
 
 Reward Types
 
-As users become more immersed in systems, cryptoeconomic or otherwise, different types of rewards can be deployed at differnt times in the funnel.
-
-125
-
-&#x20;
-
-&#x20;
-
-Chapter 6
-
-Looking Forward
-
-(Civilizational Scale Regenerative CryptoEconomics)
-
-&#x20;
-
-&#x20;
-
-As humanity transitions from the industrial age to the information age, our old institutions are decaying.&#x20;
-
-&#x20;
-
-In this overton window, we have a once in a lifetime opportunity to build new, better, fairer institutions.
-
-&#x20;
-
-\-- Anon
-
-&#x20;
-
-&#x20;
-
-What is an ImpactDAO?
-
-A DAO is a Decentralized Autonomous Organization; some DAOs are like global companies.  Some are protocols. All of them use blockchains as a trust anchor.&#x20;
-
-&#x20;
-
-An ImpactDAO is any DAO that creates positive externalities for the ecosystem in which it resides.
-
-&#x20;
-
-ImpactDAOs are the scalable building block of a more regenerative economic infrastructure.
-
-128
-
-&#x20;
-
-&#x20;
-
-Proof Of Humanity
-
-&#x20;
-
-Positive Externality:
-
-Sybil Resistance
-
-KlimaDAO
-
-&#x20;
-
-Positive Externality:
-
-Positive Price Pressure
-
-&#x20;on Carbon Credits
-
-CirclesUBI
-
-&#x20;
-
-Positive Externality:
-
-UBI for members
-
-Kleros
-
-&#x20;
-
-Positive Externality:
-
-Dispute Resolution
-
-GitcoinDAO
-
-&#x20;
-
-Positive Externality:
-
-Funding for Public Goods
-
-Examples of ImpactDAOs
-
-One powerful attribute of clusters of ImpactDAOs is how the positive externalities flow between them.  For example, Sybil Resistance flows from Proof of Humanity into GitcoinDAO, which in turn has funded projects in the Proof of Humanity Ecosystem, including KlimaDAO.
-
-129
-
-&#x20;
-
-&#x20;
-
-Two Ingredients for an ImpactDAO:
-
-Mechanism & Funding Source
-
-130
-
-&#x20;
-
-&#x20;
-
-ImpactDAOs can vary in mechanism & funding source
+As users become more immersed in systems, cryptoeconomic or otherwise, different types of rewards can be deployed at different times in the funnel.
 
 ImpactDAO
 
-Gitcoin Grants
+A DAO is a Decentralized Autonomous Organization; some DAOs are like global companies.  Some are protocols. All of them use blockchains as a trust anchor.&#x20;
 
-MolochDAO
-
-TEC
-
-Proof Of Humanity
-
-Retroactive Public Goods Funding
-
-Mechanism
-
-Quadratic Funding
-
-Pooled Funds + RageQuit
+Kleros- Dispute Resolution
 
 Tokens on Bonding Curves
-
-Web of Trust
-
-Badge holders
-
-Funding Source
-
-EF, DEFI DAOs, NFTs
-
-EF, Consensys
-
-Fundraising
-
-Inflation
-
-Optimism&#x20;
-
-Sequencer Fees
-
-The diversity in the mechanisms & funding sources for ImpactDAOs creates a pluralism (and anti-fragility) in the way public goods are funded.
-
-131
-
-&#x20;
-
-&#x20;
-
-The Big Idea
-
-1\. Build a parallel opt-in system for funding digital native public goods, which operates at greater efficiency at a greater scale.
-
-&#x20;
-
-2\. This parallel opt-in system could increasingly support non digital public goods.
-
-&#x20;
-
-3\. As more people quit their private jobs to work on public good, energy in one public good seeps into another, a sense of 21st century native civic pride emerges, momentum compounds outwards in a virtuous cycle of growth.
-
-&#x20;
-
-4\. More global public goods get funded.  Over decades, economies & democracies all over the world get upgraded be higher bandwidth for the digital age, creating more human thriving.
-
-The World
-
-Nations
-
-Software
-
-Crypto
-
-(Grants, Retro PGs,
-
-Radicle, other ImpactDAOs)
-
-132
-
-&#x20;
-
-&#x20;
 
 ImpactDAOs can stack
 
 Each ImpactDAO benefits from all the stacked ImpactDAOs supporting their work.
 
 Scalability: ImpactDAO stacking is how growth compounds, momentum builds, and regenerative cryptoeconomics eventually becomes inevitable.
-
-&#x20;
-
-Pluralism: Because each ImpactDAO can have a different mechanism or funding source, this leads to a more pluralistic public goods funding infrastructure.
-
-Each ImpactDAO benefits when public goods below them in the stack are funded.
-
-ImpactDAO
-
-133
-
-&#x20;
-
-&#x20;
-
-Chapter 7
-
-Git Involved
-
-&#x20;
-
-&#x20;
-
-All coordination is a choice.&#x20;
-
-&#x20;
-
-We have to choose the future we want in the day to day choices we make - not only in the types of assets we buy, but also in where we put our scarce time, attention, and skills.
-
-&#x20;
-
-\-- Anon
-
-&#x20;
-
-&#x20;
-
-Contribute to the next edition of this book
-
-If you would like to join the community of writers and educators forming around this book, then please scan this QR code or go to this URL:
-
-&#x20;
-
-https://t.me/+c\_BxQmyxXdg2YThh
-
-136
-
-&#x20;
-
-&#x20;
-
-Take the Green Pill
-
-Yourself
-
-greenpill.party
-
-Pledge  to support public goods @
-
-137
-
-&#x20;
-
-&#x20;
-
-Join GitcoinDAO
-
-Join the fight against Moloch
-
-gitcoindao.com
-
-Learn more about what the DAO has been up to at
-
-138
-
-&#x20;
-
-&#x20;
-
-Join the Funders League
-
-https://gitcoin.co/grants/12/
-
-gitcoin-grants-official-matching-pool-fund
-
-Learn more about how you can financially support public goods on Gitcoin @
-
-Thank you to the following organizations & people who have made the work that GitcoinDAO has done possible with their generous financial contributions:
-
-&#x20;
-
-Ethereum Foundation / ENS / Optimism / NounsDAO / Chainlink / Synthetix / momus.eth / Balancer / Badger / Uniswap / Polygon / Kraken  / Yearn / VitaDAO / GreatestLARP / Aragon / Moonshot Bots / Binance / EPNS / CMS Holdings / Stakefish  / DefianceCapital & Three Arrows Capital / Mask / 0xeffalt / Regen Network / Rainbow Rolls / KlimaDAO / Fire Eyes / Future Fund / Harvest Finance / Ocelot (Celo) / Dora Hacks / Sushi / Stefan George / YAM Finance / Mariano Conti / Dora Hacks / Robert Leshner / Stefan George / Andrew Keys / Mariano Conti / 1kx / banteg / Aztec  / Robert Leshner / Integral Finance
-
-139
-
-&#x20;
-
-&#x20;
-
-IT’S ALL
-
-COORDINATION
-
-140
-
-&#x20;
-
-&#x20;
-
-An inchoate virtous cycle
-
-All coordination is a choice.  To win this coordination game, we need to choose to coordinate to make this into a multiplayer game.  Once the multiplayer game is bootstrapped, we need to choose coordinate to win it.  Once we win it, we must coordinate to maintain its legitimacy. &#x20;
-
-&#x20;
-
-We do these things not for their own sake, but as a means to create human thriving. If we collectively all take the green pill, we create a more solarpunk world.  If we collectively do not, we continue to maintain the status quo.  Regenerative CryptoEconomics is here, it’s important, and it’s happening.  But it is also inchoate.  To grow, it needs you.
-
-The overton window is open.  Join the movement. Do what your skills & abilities uniquely enable you to do.  Spread the word.  Build something.  Learn from your mistakes, & throw it out & build something else.  Host a meetup.  Be honest about where we’re winning & also where we fall short.  Do what feels right to you. Do your own research. Beware any charistmatic leader who claims to have all the answers (including me).  The leader is the person who knows what to do next.
-
-&#x20;
-
-And whatever you do, remember to coordinate.
-
-\- @owocki
-
-it u,
-
-&#x20;anon
-
-141
-
-&#x20;
-
-&#x20;
-
-WAGMI
-
-v0.1.1  02/2022
-
-&#x20;

@@ -1,6 +1,9 @@
 # Table of contents
 
-* [Part 1](README.md)
-* [T.R. GreenPill](t.r.-greenpill.md)
-* [Timothy GreenPill](timothy-greenpill.md)
+* [Introduction](README.md)
+* [Part 1](<README (1).md>)
+* [Topics](topics/README.md)
+  * [Coordination](topics/coordination.md)
+* [T.R. GreenPill](greenpill.md)
+* [Organizations](organizations.md)
 * [dESG](desg.md)

@@ -1,5 +1,7 @@
 # Capital
 
+Interdependencies of capital&#x20;
+
 Types of Capital- Beyond Financial&#x20;
 
 The Eight Forms of Capital

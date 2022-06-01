@@ -1,0 +1,3 @@
+# Critiques
+
+hypercapitalism&#x20;

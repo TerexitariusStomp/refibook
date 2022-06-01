@@ -1,0 +1,3 @@
+# Equity
+
+Gini coefficient measurements

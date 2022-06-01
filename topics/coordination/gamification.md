@@ -30,6 +30,10 @@ If a unique Nash equilibrium exists for a game, then all players can be rational
 
 The Prisoners Dilemma
 
+![](<../../.gitbook/assets/image (1).png>)
+
+GreenPilled
+
 The Prisoners Dilemma is a category of coordination game where the incentives of players diverge - and without a mechanism for coordination between players, a rational player will choose their own benefit at expense of other players.
 
 Here’s how it works: Imagine two members of a criminal organization are arrested and imprisoned. Each prisoner has no means of communicating with the other.&#x20;

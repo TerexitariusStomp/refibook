@@ -31,3 +31,12 @@ Legitimacy by performance
 Legitimacy by participation
 
 Legitimacy by process
+
+![](../../../.gitbook/assets/image.png)
+
+GreenPilled
+
+![](<../../../.gitbook/assets/image (3).png>)
+
+GreenPilled
+

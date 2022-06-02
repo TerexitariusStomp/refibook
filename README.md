@@ -1,15 +1,28 @@
-# Introduction
+# How To
 
-An inchoate virtous cycle
+Get Involved In Writing The Next Iteration of [GreenPill ](https://greenpill.party/#book)and expand ideas in Regenerative Cryptoeconomics By Making Changes on This Repository via Github/ Gitbook/ something else.&#x20;
 
-All coordination is a choice.  To win this coordination game, we need to choose to coordinate to make this into a multiplayer game.  Once the multiplayer game is bootstrapped, we need to choose coordinate to win it.  Once we win it, we must coordinate to maintain its legitimacy. &#x20;
+Or&#x20;
 
-We do these things not for their own sake, but as a means to create human thriving. If we collectively all take the green pill, we create a more solarpunk world.  If we collectively do not, we continue to maintain the status quo.  Regenerative CryptoEconomics is here, it’s important, and it’s happening.  But it is also inchoate.  To grow, it needs you.
+Message on Discord Terexitarius#4750 stating you want to be a contributor&#x20;
 
-The overton window is open.  Join the movement. Do what your skills & abilities uniquely enable you to do.  Spread the word.  Build something.  Learn from your mistakes, & throw it out & build something else.  Host a meetup.  Be honest about where we’re winning & also where we fall short.  Do what feels right to you. Do your own research. Beware any charistmatic leader who claims to have all the answers (including me).  The leader is the person who knows what to do next.
+They Will Send an Invite Link and Add You to A Group Chat
 
-&#x20;
+**Once Able To Edit**
 
-And whatever you do, remember to coordinate.
+Every Two Weeks A New Part Will Be Created That Shows What Each Writer is Working On For Those Weeks&#x20;
 
-\- @owocki
+Drag and Drop Topics from The Topic List into the Active Part or Create Your Own to Add to The Part&#x20;
+
+Every Two Weeks a New Part is Created and We Meet Up To Talk About What We Wrote and Enjoy As A Group
+
+**First Version**
+
+This process will repeat for around a year, from there the first version of the book will be completed.&#x20;
+
+All proceeds from the book will be donated to an public good organization of the collective's choosing on the Giveth platform.&#x20;
+
+GivBacks from these donations will be used to retroactively pay contributions and to fund further contributors to work on these ideas.&#x20;
+
+
+

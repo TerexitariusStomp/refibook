@@ -1,7 +1,8 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Part 1](<README (1).md>)
+* [How To](README.md)
+* [Introduction](<README (1).md>)
+* [Active: Part 1](active-part-1.md)
 * [Topics](topics/README.md)
   * [Regenerative](topics/regenerative/README.md)
     * [Time](topics/regenerative/time.md)

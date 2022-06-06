@@ -34,19 +34,19 @@ Of the energy used in Bitcoin mining renewable energy is used to power anywhere 
 
 ## Proof of Stake
 
-Everything so far has only been about the first decentralized cryptocurrency ever, Bitcoin uses proof of work. Since then there has been a lot of innovation towards efficiency. One innovation is proof of stake (POS). Proof of stake uses a thousandth the energy need of Bitcoin, with some of the most efficient using the equivalent of seven US households worth of energy (CCRI, 2022). Proof of stake networks are able to be run on computers as simple as a Raspberry Pi.&#x20;
+Everything so far has only been about the first decentralized cryptocurrency ever, Bitcoin uses proof of work. Since then there has been a lot of innovation towards efficiency. One innovation is proof of stake (POS). Proof of stake uses a thousandth the energy need of Bitcoin, with some of the most efficient using the equivalent of seven US households worth of energy (CCRI, 2022). Proof of stake is able to be run on computers as simple as a Raspberry Pi.&#x20;
 
 ![](<../.gitbook/assets/image (5).png>)
 
 ## Future
 
-Carbon neutral Proof of Stake cryptocurrencies are becoming an ever increasing trend with Ripple, WAX, Solana, Polygon, Celo, Near, among others jumping on board. Algorand even went so far as to go carbon negative. This was largely made possible by offsetting carbon impact through carbon credits, with around 25 million carbon credits now on blockchains (Rosseau, 2022).&#x20;
+Carbon neutral Proof of Stake blockchains are becoming an ever increasing trend with Ripple, WAX, Solana, Polygon, Celo, Near, among others jumping on board. Algorand even went so far as to go carbon negative. This was largely made possible by offsetting carbon impact through carbon credits, with around 25 million carbon credits now on blockchains (Rosseau, 2022).&#x20;
 
 One of the major proof of work blockchains, Ethereum, is in the process of transitioning to a proof of stake algorithm which would reduce the network energy demand by 99% (Castor, 2022).&#x20;
 
 ## Why
 
-So with Bitcoin consuming a 1/10th the energy of US currencies and lasting infinitely longer, technology improving for increased efficiency, and cryptocurrencies already going carbon neutral. Why are there media blasts about cryptocurrency being bad for the environment? Maybe we will find out as we dive deeper into the world of Web3.&#x20;
+So with Bitcoin consuming a 1/10th the energy of US currencies and lasting infinitely longer, technology improving for increased efficiency, and blockchains already going carbon neutral. Why are there media blasts about cryptocurrency being bad for the environment? Maybe we will find out as we dive deeper into the world of Web3.&#x20;
 
 &#x20;
 

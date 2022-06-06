@@ -6,7 +6,7 @@ The Euro, USD and Yen, account for 60% of the circulating currency in the world 
 
 Minting United States currency (dollars and coinage) uses up to 10 times the amount of energy that Bitcoin uses and lasts a fraction of the time. Coins on average last 25 years (1). While cryptocurrency, including bitcoin, could theoretically last forever.&#x20;
 
-![Comparison of Bitcoin and US currency in terms of energy usage from the years 2010 to 2020. Max US currency energy usage is 10^-1 to fit better with the chart. Source. ](<../.gitbook/assets/image (4).png>)
+![Comparison of Bitcoin and US currency in terms of energy usage from the years 2010 to 2020. Max US currency energy usage is 10^-1 to fit better with the chart. Source. ](<../../.gitbook/assets/image (4).png>)
 
 1: Though to give you an idea of the environmental impact of this from US currency for the year 2002 it is estimated that 1.75 billion litres per year of water is used, 6 million pounds of waste ink and pulp sludge is produced, 3,540 tonnes of ink is used, over 7,100 tonnes of cotton is used, and over 2,300 tonnes of linen is used (1).&#x20;
 

@@ -129,3 +129,11 @@ SOCIO-SEXUAL
 NEURO-ATOMIC
 
 (metaphysiological / spiritual intelligence)
+
+[https://epub.wu.ac.at/7453/1/SustainableDevelopment%20Report\_BlockchainWeb3\_SDGs.pdf](https://epub.wu.ac.at/7453/1/SustainableDevelopment%20Report\_BlockchainWeb3\_SDGs.pdf)
+
+Transformation requires attacking the root causes that generate and reproduce economic, social, political and environmental problems, not merely their symptoms. It means nothing less than a radical shift in the way we produce, consume, and make our decisions (Global Sustainable Development Report 2019).
+
+Web3 has the potential to revolutionize agreements and value exchange
+
+![](<../../.gitbook/assets/image (8).png>)

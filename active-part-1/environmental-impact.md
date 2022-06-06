@@ -44,6 +44,10 @@ Carbon neutral Proof of Stake cryptocurrencies are becoming an ever increasing t
 
 One of the major proof of work blockchains, Ethereum, is in the process of transitioning to a proof of stake algorithm which would reduce the network energy demand by 99% (Castor, 2022).&#x20;
 
+## Why
+
+So with Bitcoin consuming a 1/10th the energy of US currencies and lasting infinitely longer, technology improving for increased efficiency, and cryptocurrencies already going carbon neutral. Why are there media blasts about cryptocurrency being bad for the environment? Maybe we will find out as we dive deeper into the world of Web3.&#x20;
+
 &#x20;
 
 

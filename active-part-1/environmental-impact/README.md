@@ -2,7 +2,7 @@
 
 The two main environmental impacts of crypto are energy use and electronic waste. Currencies have environmental impacts of energy and electronic parts that enable such systems. This writing will focus only on the environmental impact of energy use for minting new units of value (bitcoin or dollars and coinage). It won't take into account the energy cost of disposing of old currencies, transportation and growing of materials, chemicals used, water used, environmental impact of metals, deforestation, greenhouse gases, e-waste, microplastics from polymer notes or bank cards, among many other impacts (Footnotes 1, 2). Unlike other writing that compared crypto's environmental impact to countries, this writing will compare it with currency (specifically US currencies; dollars and coinage).&#x20;
 
-The Euro, USD and Yen, account for 60% of the circulating currency in the world (1). This takes shape as around 5.25 million tonnes of coinage and at least 200 billion bank notes (1). For this writing take into consideration that the calculations account for only around 20% of the energy use of circulating currency.&#x20;
+The Euro, USD and Yen, account for 60% of the circulating currency in the world (1). This takes shape as around 5.25 million tonnes of coinage and at least 200 billion bank notes (1). For this writing take into consideration that the calculations account for only around 20% of the energy use of circulating currency as it is examining only US Currency. &#x20;
 
 Minting United States currency (dollars and coinage) uses up to 10 times the amount of energy that Bitcoin uses and lasts a fraction of the time. Coins on average last 25 years (1). While cryptocurrency, including bitcoin, could theoretically last forever.&#x20;
 

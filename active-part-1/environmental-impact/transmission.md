@@ -27,7 +27,7 @@ The bank is using the R3 blockchain platform for enabling [Digital Vault](https:
 
 [Asian Bank](https://appinventiv.com/portfolio/asian-bank-fintech-app/) took Appinventiv’s help in building a core banking platform that offers functionalities such as wire transactions with cryptocurrency, buying and selling of cryptocurrencies, and wallet recharge.
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (1).png>)
 
 https://www.infosys.com/industries/financial-services/white-papers/documents/blockchain-adoption-financial-services.pdf
 

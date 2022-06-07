@@ -40,6 +40,20 @@ Carbon neutral Proof of Stake blockchains are becoming an ever increasing trend 
 
 One of the major proof of work blockchains, Ethereum, is in the process of transitioning to a proof of stake algorithm which would reduce the network energy demand by 99% (19).&#x20;
 
+## Transmitting Currencies
+
+Once the US currency is made there are two ways in which we can utilize it for exchange, physically and digitally. In physical exchange a dollar is exchanged for another item such as a good in a dollar store. In digital exchange, the dollar is transmitted to the vender of the item. Such as buying a toy for a dollar on Amazon. In order to do this exchange a messaging system is needed. The messaging acknowledges that the person wants to send the dollar, sends the dollar, verifies that there is a dollar, and disperses the dollar to the person that sold the toy. SWIFT and VISA/ Mastercard are examples of such messaging systems. Physical exchange relies on the energy of the person to make the exchange, so it won't be examined further. Digital exchange relies on the  messaging system and will be examined further.&#x20;
+
+Here's an example of how a bank messaging system works. Arnold has just bought something from Butch and needs to pay Butch for that item. They either put in their card info (VISA/ MASTERCARD) or their bank info and the bank info of Butch, the receiving bank (SWIFT). The amount needing to be paid to Butch is either automatically updated via the item description or it is manually input. From there a message is sent to the bank saying that this amount of money is needing to be sent to Butch. In the case of SWIFT that the banks have a direct relationship (trust each other), the money is sent from Arnold's bank (Bank A) to Butch's bank (Bank B), if these banks don't have a relationship the transaction is sent through trusted intermediaries until it finally arrives at Butch's bank. During card transactions, especially credit cards, the card transaction is sent through as many as six to eight intermediaries (20).&#x20;
+
+![Example of Currency Transmission ](<../../.gitbook/assets/image (9).png>)
+
+Now at the most trusted levels of this messaging system, there are at least two intermediaries (Bank A and Bank B). Both of these banks likely have physical locations with energy costs, the messaging network needs energy, and all of this needs a lot of people.&#x20;
+
+![](<../../.gitbook/assets/image (8).png>)
+
+![](<../../.gitbook/assets/image (17).png>)
+
 ## Why
 
 So with Bitcoin consuming a 1/10th the energy of US currencies and lasting infinitely longer, technology improving for increased efficiency, and blockchains already going carbon neutral. Why are there media blasts about cryptocurrency being bad for the environment? Maybe we will find out as we dive deeper into the world of Web3.&#x20;
@@ -83,6 +97,8 @@ So with Bitcoin consuming a 1/10th the energy of US currencies and lasting infin
 18: Rosseau, 2022 [https://earth.org/tokenized-carbon-credits/#:\~:text=%E2%80%8B%E2%80%8BSince%20the%20launch,locked%20into%20the%20KlimaDAO%20treasury.](https://earth.org/tokenized-carbon-credits/)
 
 19: Castor, 2022 [https://www.technologyreview.com/2022/03/04/1046636/ethereum-blockchain-proof-of-stake/](https://www.technologyreview.com/2022/03/04/1046636/ethereum-blockchain-proof-of-stake/)
+
+20: COTI, 2018 [https://medium.com/cotinetwork/how-does-credit-card-processing-work-fcbc065f3a63](https://medium.com/cotinetwork/how-does-credit-card-processing-work-fcbc065f3a63)
 
 
 

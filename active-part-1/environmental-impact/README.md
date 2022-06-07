@@ -46,13 +46,15 @@ Once the US currency is made there are two ways in which we can utilize it for e
 
 Here's an example of how a bank messaging system works. Arnold has just bought something from Butch and needs to pay Butch for that item. They either put in their card info (VISA/ MASTERCARD) or their bank info and the bank info of Butch, the receiving bank (SWIFT). The amount needing to be paid to Butch is either automatically updated via the item description or it is manually input. From there a message is sent to the bank saying that this amount of money is needing to be sent to Butch. In the case of SWIFT that the banks have a direct relationship (trust each other), the money is sent from Arnold's bank (Bank A) to Butch's bank (Bank B), if these banks don't have a relationship the transaction is sent through trusted intermediaries until it finally arrives at Butch's bank. During card transactions, especially credit cards, the card transaction is sent through as many as six to eight intermediaries (20).&#x20;
 
-![Example of Currency Transmission ](<../../.gitbook/assets/image (9).png>)
+![Example of Currency Transmission ](<../../.gitbook/assets/image (10).png>)
 
 Now at the most trusted levels of this messaging system, there are at least two intermediaries (Bank A and Bank B). Both of these banks likely have physical locations with energy costs, the messaging network needs energy, and all of this needs a lot of people.&#x20;
 
-![](<../../.gitbook/assets/image (8).png>)
+Bitcoin has had a total of 738,999,111 transactions completed on it with the top five transactioons&#x20;
 
-![](<../../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (5).png>)
+
+![](<../../.gitbook/assets/image (8).png>)![](<../../.gitbook/assets/image (17).png>)
 
 ## Why
 

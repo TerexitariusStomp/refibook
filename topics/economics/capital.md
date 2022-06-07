@@ -136,4 +136,4 @@ Transformation requires attacking the root causes that generate and reproduce ec
 
 Web3 has the potential to revolutionize agreements and value exchange
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (10) (1).png>)

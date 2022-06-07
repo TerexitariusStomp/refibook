@@ -1,6 +1,6 @@
 # What Is
 
-![](<../../.gitbook/assets/image (2) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1).png>)
 
 {% embed url="https://medium.com/amentum/from-walled-gardens-to-community-gardens-c58aca89566a" %}
 

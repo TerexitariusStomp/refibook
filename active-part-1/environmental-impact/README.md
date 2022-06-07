@@ -42,19 +42,27 @@ One of the major proof of work blockchains, Ethereum, is in the process of trans
 
 ## Transmitting Currencies
 
+### US Currency
+
 Once the US currency is made there are two ways in which we can utilize it for exchange, physically and digitally. In physical exchange a dollar is exchanged for another item such as a good in a dollar store. In digital exchange, the dollar is transmitted to the vender of the item. Such as buying a toy for a dollar on Amazon. In order to do this exchange a messaging system is needed. The messaging acknowledges that the person wants to send the dollar, sends the dollar, verifies that there is a dollar, and disperses the dollar to the person that sold the toy. SWIFT and VISA/ Mastercard are examples of such messaging systems. Physical exchange relies on the energy of the person to make the exchange, so it won't be examined further. Digital exchange relies on the  messaging system and will be examined further.&#x20;
 
 Here's an example of how a bank messaging system works. Arnold has just bought something from Butch and needs to pay Butch for that item. They either put in their card info (VISA/ MASTERCARD) or their bank info and the bank info of Butch, the receiving bank (SWIFT). The amount needing to be paid to Butch is either automatically updated via the item description or it is manually input. From there a message is sent to the bank saying that this amount of money is needing to be sent to Butch. In the case of SWIFT that the banks have a direct relationship (trust each other), the money is sent from Arnold's bank (Bank A) to Butch's bank (Bank B), if these banks don't have a relationship the transaction is sent through trusted intermediaries until it finally arrives at Butch's bank. During card transactions, especially credit cards, the card transaction is sent through as many as six to eight intermediaries (20).&#x20;
 
-![Example of Currency Transmission ](<../../.gitbook/assets/image (10).png>)
+![Example of Currency Transmission ](<../../.gitbook/assets/image (11).png>)
 
 Now at the most trusted levels of this messaging system, there are at least two intermediaries (Bank A and Bank B). Both of these banks likely have physical locations with energy costs, the messaging network needs energy, and all of this needs a lot of people.&#x20;
 
-Bitcoin has had a total of 738,999,111 transactions completed on it with the top five transactioons&#x20;
+### Bitcoin
 
-![](<../../.gitbook/assets/image (5).png>)
+Banks everywhere are seriously considering distributed ledgers, creating their own cryptocurrencies, and seeing how this technology could affect them. For example in Italy 97 member banks of the Italian Banking Association, equalling 91% of the banking sector in terms of employee numbers, have adopted a distributed ledger for their operations (21). The Swedish Central Bank is experimenting with creating its own digital currency, HSBC have enabled a digital asset vault, Asian Bank has integrated, wallets, buying and selling of cryptocurrency as well as wire transactions with crypto, and the US Federal Reserve is working with IBM to develop a blockchain payment system (22, 23).
 
-![](<../../.gitbook/assets/image (8).png>)![](<../../.gitbook/assets/image (17).png>)
+![Cost savings for banks adopting blockchain technology (22). ](<../../.gitbook/assets/image (7) (1).png>)
+
+In Proof of Work systems (Bitcoin, Ethereum, etc.), computers are coming to a consensus over the transactions that occurred, this consensus is recorded and one of the computers who aid in the consensus are sent tokens (newly minted Ethereum, Bitcoin, etc.), as well as transaction fees from the person that initiated the transaction, to incentivize this process (every computer has a chance of receiving tokens proportional to the computing power used). The only intermediary necessary to trust for transactions from one person to another are consensus making computers.&#x20;
+
+![Graphic of a transaction over POW](<../../.gitbook/assets/image (8).png>)
+
+The global annual cost saving from banks adopting blockchain would equate to USD $12 billion (22). Bitcoin has already had a total of 738,999,111 transactions completed on it with USD $4,461,260,000,000 in total value (24). During that same time it created around 19 million Bitcoin, out of the total number that will ever exist of 21 million. Once 21 million Bitcoin are minted, computers won't receive newly minted Bitcoin for their work but instead will receive only the transaction fee that people send to have their transaction sent. During 2010-2020 Bitcoin did this all while having a lower energy impact than US currency.&#x20;
 
 ## Why
 
@@ -101,6 +109,14 @@ So with Bitcoin consuming a 1/10th the energy of US currencies and lasting infin
 19: Castor, 2022 [https://www.technologyreview.com/2022/03/04/1046636/ethereum-blockchain-proof-of-stake/](https://www.technologyreview.com/2022/03/04/1046636/ethereum-blockchain-proof-of-stake/)
 
 20: COTI, 2018 [https://medium.com/cotinetwork/how-does-credit-card-processing-work-fcbc065f3a63](https://medium.com/cotinetwork/how-does-credit-card-processing-work-fcbc065f3a63)
+
+21: R3, 2022 https://www.r3.com/case-studies/spunta/&#x20;
+
+22: Appinventiv, 2022 https://appinventiv.com/blog/blockchain-in-banking/&#x20;
+
+23: Infosys, 2022 https://www.infosys.com/industries/financial-services/white-papers/documents/blockchain-adoption-financial-services.pdf
+
+24: Nasdaq, 2022 [https://data.nasdaq.com/data/BCHAIN/ETRVU-bitcoin-estimated-transaction-volume-usd](https://data.nasdaq.com/data/BCHAIN/ETRVU-bitcoin-estimated-transaction-volume-usd)
 
 
 

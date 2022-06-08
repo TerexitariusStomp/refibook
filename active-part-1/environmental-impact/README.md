@@ -1,5 +1,7 @@
 # Environmental Impact
 
+![Image created from Imogen- Input Sentences “Bitcoin consuming a 1/10th the energy of US currencies and lasting infinitely longer, technology improving for increased efficiency, and blockchains already going carbon neutral. Why are there media blasts about cryptocurrency being bad for the environment”](../../.gitbook/assets/0.png)
+
 The two main environmental impacts of crypto are energy use and electronic waste. Currencies have environmental impacts of energy and electronic parts that enable such systems. This writing will focus only on the environmental impact of energy use for minting new units of value (bitcoin or dollars and coinage). It won't take into account the energy cost of disposing of old currencies, transportation and growing of materials, chemicals used, water used, environmental impact of metals, deforestation, greenhouse gases, e-waste, microplastics from polymer notes or bank cards, among many other impacts (Footnotes 1, 2). Unlike other writing that compared crypto's environmental impact to countries, this writing will compare it with currency (specifically US currencies; dollars and coinage).&#x20;
 
 The Euro, USD and Yen, account for 60% of the circulating currency in the world (1). This takes shape as around 5.25 million tonnes of coinage and at least 200 billion bank notes (1). For this writing take into consideration that the calculations account for only around 20% of the energy use of circulating currency as it is examining only US Currency. &#x20;
@@ -8,15 +10,15 @@ Minting United States currency (dollars and coinage) uses up to 10 times the amo
 
 ![Comparison of Bitcoin and US currency in terms of energy usage from the years 2010 to 2020. Max US currency energy usage is 10^-1 to fit better with the chart. Source. ](<../../.gitbook/assets/image (4).png>)
 
-1: Though to give you an idea of the environmental impact of this from US currency for the year 2002 it is estimated that 1.75 billion litres per year of water is used, 6 million pounds of waste ink and pulp sludge is produced, 3,540 tonnes of ink is used, over 7,100 tonnes of cotton is used, and over 2,300 tonnes of linen is used (1).&#x20;
+_1: Though to give you an idea of the environmental impact of this from US currency for the year 2002 it is estimated that 1.75 billion litres per year of water is used, 6 million pounds of waste ink and pulp sludge is produced, 3,540 tonnes of ink is used, over 7,100 tonnes of cotton is used, and over 2,300 tonnes of linen is used (1)._&#x20;
 
-2: Bitcoin's annual e-waste generation adds up to 30.7 metric kilotons as of May 2021 (2). A measurement of the amount of e-waste that the US currency system produces was unable to be found. However, there's an estimated 800,000 bank branches with at least a computer in each one and around 3.24 million ATMs globally (3, 4)
+_2: Bitcoin's annual e-waste generation adds up to 30.7 metric kilotons as of May 2021 (2). A measurement of the amount of e-waste that the US currency system produces was unable to be found. However, there's an estimated 800,000 bank branches with at least a computer in each one and around 3.24 million ATMs globally (3, 4)_
 
 ## Fiat Energy Use
 
-_The US lost around USD $870,000,000 producing pennies between 2010-2020 (estimating the cost of producing pennies during that time at around 2.1 cents) (5)_
+_`The US lost around USD $870,000,000 producing pennies between 2010-2020 (estimating the cost of producing pennies during that time at around 2.1 cents) (5)`_
 
-From 2010 to 2020 there was an estimated USD $794,136,900 of pennies, $668,783,720 of nickels, $2,453,301,000 of dimes, $4,491,593,500 of quarters, $28,725,000 of 50 cent pieces, and $1,001,230,000 of dollar pieces, $24,044,800,000 of one dollars, $1,075,200,000 of two dollars, $35,648,000,000 of five dollars, $46,910,000,000 of ten dollars, $350,080,000,000 of twenty dollars, $121,600,000,000 of fifty dollars, and $1,941,120,000,000 of one hundred dollars newly minted for a total of USD $2,529,915,770,120... around two and a half trillion dollars. That was created from 133,478,075,300 new units of value consisting of 794,136,900 pennies, 13,375,674,400 nickels, 24,533,010,000 dimes, 17,966,374,000 quarters, 57,450,000 half dollars, 1,001,230,000 dollar pieces, 24,044,800,000 dollar bills, 537,600,000 2 dollar bills, 7,129,600,000 5 dollar bills, 4,691,000,000 10 dollar bills, 17,504,000,000 20 dollar bills, 2,432,000,000 50 dollar bills, and 19,411,200,000 100 dollar bills (6, 7).&#x20;
+From 2010 to 2020 there was an estimated USD $794,136,900 of pennies, $668,783,720 of nickels, $2,453,301,000 of dimes, $4,491,593,500 of quarters, $28,725,000 of 50 cent pieces, and $1,001,230,000 of dollar pieces, $24,044,800,000 of one dollars, $1,075,200,000 of two dollars, $35,648,000,000 of five dollars, $46,910,000,000 of ten dollars, $350,080,000,000 of twenty dollars, $121,600,000,000 of fifty dollars, and $1,941,120,000,000 of **one hundred dollars newly minted for a total of USD $2,529,915,770,120... around two and a half trillion dollars**. That was created from 133,478,075,300 new units of value consisting of 794,136,900 pennies, 13,375,674,400 nickels, 24,533,010,000 dimes, 17,966,374,000 quarters, 57,450,000 half dollars, 1,001,230,000 dollar pieces, 24,044,800,000 dollar bills, 537,600,000 2 dollar bills, 7,129,600,000 5 dollar bills, 4,691,000,000 10 dollar bills, 17,504,000,000 20 dollar bills, 2,432,000,000 50 dollar bills, and 19,411,200,000 100 dollar bills (6, 7).&#x20;
 
 0.00000001672947013 GWh are used on average to print a bill at the minting site (8). 75,750,200,000 of the newly minted units above were bills. That means 1,267 GWh was used to print bills between 2010 and 2020.&#x20;
 
@@ -78,15 +80,15 @@ The global annual cost saving from banks adopting blockchain would equate to USD
 
 Though it would be difficult to separate newly minted Bitcoin energy use vs transaction energy use, when transactions are compared to the block size there is a correlation. This shows that the block size (megabyte size) with the amount of transactions on that block.&#x20;
 
-![Showing a growing block size with a growing amount of transactions](<../../.gitbook/assets/image (16).png>)
+![Showing a growing block size with a growing amount of transactions (25, 26)](<../../.gitbook/assets/image (16).png>)
 
 With a growing block size there is a growing energy need, however the correlation is weak.&#x20;
 
-![Block size vs power need, the complexity of solving the cryptographic puzzle may affect power need](<../../.gitbook/assets/image (10).png>)
+![Block size vs power need, the complexity of solving the cryptographic puzzle may affect power need (13, 26)](<../../.gitbook/assets/image (10).png>)
 
 The transaction value ($USD) has a weak correlation to block size.&#x20;
 
-![Block Size Increase With Transaction Value Increase](<../../.gitbook/assets/image (11).png>)
+![Block Size Increase With Transaction Value Increase (24, 26)](<../../.gitbook/assets/image (11).png>)
 
 This means that the value held on Bitcoin could increase, without drastically affecting its energy consumption (USD $1,000 would around the same energy need as a 5,000,000 transaction). If transactions continue to increase on Bitcoin however the energy consumption will continue to increase. This is largely due to how Bitcoin handles value as simple data strings while transactions are complex cryptographic puzzles.&#x20;
 
@@ -143,6 +145,10 @@ So with Bitcoin consuming a 1/10th the energy of US currencies and lasting infin
 23: Infosys, 2022 https://www.infosys.com/industries/financial-services/white-papers/documents/blockchain-adoption-financial-services.pdf
 
 24: Nasdaq, 2022 [https://data.nasdaq.com/data/BCHAIN/ETRVU-bitcoin-estimated-transaction-volume-usd](https://data.nasdaq.com/data/BCHAIN/ETRVU-bitcoin-estimated-transaction-volume-usd)
+
+25: [https://www.blockchain.com/charts/n-transactions-per-block](https://www.blockchain.com/charts/n-transactions-per-block)
+
+26: [https://www.blockchain.com/charts/avg-block-size](https://www.blockchain.com/charts/avg-block-size)
 
 
 

@@ -17,6 +17,7 @@
       * [Mechanisms](topics/regenerative/funding/mechanisms.md)
       * [Distribution](topics/regenerative/funding/distribution.md)
   * [Crypto](topics/crypto/README.md)
+    * [Wealth Distribution](topics/crypto/wealth-distribution.md)
     * [Deployment](topics/crypto/deployment.md)
     * [Currency](topics/crypto/currency.md)
     * [Onboarding](topics/crypto/onboarding.md)

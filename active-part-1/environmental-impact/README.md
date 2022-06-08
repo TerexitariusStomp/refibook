@@ -34,17 +34,6 @@ Of the energy used in Bitcoin mining renewable energy is used to power anywhere 
 
 Everything so far has only been about the first decentralized cryptocurrency ever, Bitcoin uses proof of work. Since then there has been a lot of innovation towards efficiency. One innovation is proof of stake (POS). Proof of stake uses a thousandth the energy need of Bitcoin, with some of the most efficient, Polkadot, using the equivalent of seven US households worth of energy (17). Proof of stake is able to be run on computers as simple as a Raspberry Pi.&#x20;
 
-
-
-Impact of Bitcoin Per Dollar Circulating
-
-
-
-1.
-2. One question - if I look at total $'s in circulation vs total energy used there is no doubt that Bitcoin uses more energy per dollarized value right (see my calcs in the image - figures are taken from your article)? (edited)
-
-![](<../../.gitbook/assets/image (12).png>)
-
 ## Future
 
 Carbon neutral Proof of Stake blockchains are becoming an ever increasing trend with Ripple, WAX, Solana, Polygon, Celo, Near, among others jumping on board. Algorand even went so far as to go carbon negative. This was largely made possible by offsetting carbon impact through carbon credits, with around 25 million carbon credits now on blockchains (18).&#x20;
@@ -69,7 +58,7 @@ In order to do this exchange a messaging system is needed. The messaging acknowl
 
 Here's an example of how a bank messaging system works. Arnold has just bought something from Butch and needs to pay Butch for that item. They either put in their card info (VISA/ MASTERCARD) or their bank info and the bank info of Butch, the receiving bank (SWIFT). The amount needing to be paid to Butch is either automatically updated via the item description or it is manually input. From there a message is sent to the bank saying that this amount of money is needing to be sent to Butch. In the case of SWIFT that the banks have a direct relationship (trust each other), the money is sent from Arnold's bank (Bank A) to Butch's bank (Bank B), if these banks don't have a relationship the transaction is sent through trusted intermediaries until it finally arrives at Butch's bank. During card transactions, especially credit cards, the card transaction is sent through as many as six to eight intermediaries (20).&#x20;
 
-![Example of Currency Transmission ](<../../.gitbook/assets/image (11).png>)
+![Example of Currency Transmission ](<../../.gitbook/assets/image (11) (1).png>)
 
 Now at the most trusted levels of this messaging system, there are at least two intermediaries (Bank A and Bank B). Both of these banks likely have physical locations with energy costs, the messaging network needs energy, and all of this needs a lot of people.&#x20;
 
@@ -84,6 +73,22 @@ In Proof of Work systems (Bitcoin, Ethereum, etc.), computers are coming to a co
 ![Graphic of a transaction over POW](<../../.gitbook/assets/image (8).png>)
 
 The global annual cost saving from banks adopting blockchain would equate to USD $12 billion (22). Bitcoin has already had a total of 738,999,111 transactions completed on it with USD $4,461,260,000,000 in total value (24). During that same time it created around 19 million Bitcoin, out of the total number that will ever exist of 21 million. Once 21 million Bitcoin are minted, computers won't receive newly minted Bitcoin for their work but instead will receive only the transaction fee that people send to have their transaction sent. During 2010-2020 Bitcoin did this all while having a lower energy impact than US currency.&#x20;
+
+## Impact of Bitcoin Energy Use Per Dollar Circulating
+
+Though it would be difficult to separate newly minted Bitcoin energy use vs transaction energy use, when transactions are compared to the block size there is a correlation. This shows that the block size (megabyte size) with the amount of transactions on that block.&#x20;
+
+![Showing a growing block size with a growing amount of transactions](<../../.gitbook/assets/image (16).png>)
+
+With a growing block size there is a growing energy need, however the correlation is weak.&#x20;
+
+![Block size vs power need, the complexity of solving the cryptographic puzzle may affect power need](<../../.gitbook/assets/image (10).png>)
+
+The transaction value ($USD) has a weak correlation to block size.&#x20;
+
+![Block Size Increase With Transaction Value Increase](<../../.gitbook/assets/image (11).png>)
+
+This means that the value held on Bitcoin could increase, without drastically affecting its energy consumption (USD $1,000 would around the same energy need as a 5,000,000 transaction). If transactions continue to increase on Bitcoin however the energy consumption will continue to increase. This is largely due to how Bitcoin handles value as simple data strings while transactions are complex cryptographic puzzles.&#x20;
 
 ## Why
 

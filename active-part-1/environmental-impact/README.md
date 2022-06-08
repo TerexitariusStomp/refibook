@@ -34,6 +34,17 @@ Of the energy used in Bitcoin mining renewable energy is used to power anywhere 
 
 Everything so far has only been about the first decentralized cryptocurrency ever, Bitcoin uses proof of work. Since then there has been a lot of innovation towards efficiency. One innovation is proof of stake (POS). Proof of stake uses a thousandth the energy need of Bitcoin, with some of the most efficient, Polkadot, using the equivalent of seven US households worth of energy (17). Proof of stake is able to be run on computers as simple as a Raspberry Pi.&#x20;
 
+
+
+Impact of Bitcoin Per Dollar Circulating
+
+
+
+1.
+2. One question - if I look at total $'s in circulation vs total energy used there is no doubt that Bitcoin uses more energy per dollarized value right (see my calcs in the image - figures are taken from your article)? (edited)
+
+![](<../../.gitbook/assets/image (12).png>)
+
 ## Future
 
 Carbon neutral Proof of Stake blockchains are becoming an ever increasing trend with Ripple, WAX, Solana, Polygon, Celo, Near, among others jumping on board. Algorand even went so far as to go carbon negative. This was largely made possible by offsetting carbon impact through carbon credits, with around 25 million carbon credits now on blockchains (18).&#x20;

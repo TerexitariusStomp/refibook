@@ -1,6 +1,6 @@
 # Environmental Impact
 
-![Image created from Imogen- Input Sentences “Bitcoin consuming a 1/10th the energy of US currencies and lasting infinitely longer, technology improving for increased efficiency, and blockchains already going carbon neutral. Why are there media blasts about cryptocurrency being bad for the environment”](../../.gitbook/assets/0.png)
+![Image created from Imogen- Input Sentences “Bitcoin consuming a 1/10th the energy of US currencies and lasting infinitely longer, technology improving for increased efficiency, and blockchains already going carbon neutral. Why are there media blasts about cryptocurrency being bad for the environment”](../.gitbook/assets/0.png)
 
 The two main environmental impacts of crypto are energy use and electronic waste. Currencies have environmental impacts of energy and electronic parts that enable such systems. This writing will focus only on the environmental impact of energy use for minting new units of value (bitcoin or dollars and coinage). It won't take into account the energy cost of disposing of old currencies, transportation and growing of materials, chemicals used, water used, environmental impact of metals, deforestation, greenhouse gases, e-waste, microplastics from polymer notes or bank cards, among many other impacts (Footnotes 1, 2). Unlike other writing that compared crypto's environmental impact to countries, this writing will compare it with currency (specifically US currencies; dollars and coinage).&#x20;
 
@@ -8,7 +8,7 @@ The Euro, USD and Yen, account for 60% of the circulating currency in the world 
 
 Minting United States currency (dollars and coinage) uses up to 10 times the amount of energy that Bitcoin uses and lasts a fraction of the time. Coins on average last 25 years (1). While cryptocurrency, including bitcoin, could theoretically last forever.&#x20;
 
-![Comparison of Bitcoin and US currency in terms of energy usage from the years 2010 to 2020. Max US currency energy usage is 10^-1 to fit better with the chart. Source. ](<../../.gitbook/assets/image (4).png>)
+![Comparison of Bitcoin and US currency in terms of energy usage from the years 2010 to 2020. Max US currency energy usage is 10^-1 to fit better with the chart. Source. ](<../.gitbook/assets/image (4).png>)
 
 _1: Though to give you an idea of the environmental impact of this from US currency for the year 2002 it is estimated that 1.75 billion litres per year of water is used, 6 million pounds of waste ink and pulp sludge is produced, 3,540 tonnes of ink is used, over 7,100 tonnes of cotton is used, and over 2,300 tonnes of linen is used (1)._&#x20;
 
@@ -60,7 +60,7 @@ In order to do this exchange a messaging system is needed. The messaging acknowl
 
 Here's an example of how a bank messaging system works. Arnold has just bought something from Butch and needs to pay Butch for that item. They either put in their card info (VISA/ MASTERCARD) or their bank info and the bank info of Butch, the receiving bank (SWIFT). The amount needing to be paid to Butch is either automatically updated via the item description or it is manually input. From there a message is sent to the bank saying that this amount of money is needing to be sent to Butch. In the case of SWIFT that the banks have a direct relationship (trust each other), the money is sent from Arnold's bank (Bank A) to Butch's bank (Bank B), if these banks don't have a relationship the transaction is sent through trusted intermediaries until it finally arrives at Butch's bank. During card transactions, especially credit cards, the card transaction is sent through as many as six to eight intermediaries (20).&#x20;
 
-![Example of Currency Transmission ](<../../.gitbook/assets/image (11) (1).png>)
+![Example of Currency Transmission ](<../.gitbook/assets/image (11) (1).png>)
 
 Now at the most trusted levels of this messaging system, there are at least two intermediaries (Bank A and Bank B). Both of these banks likely have physical locations with energy costs, the messaging network needs energy, and all of this needs a lot of people.&#x20;
 
@@ -68,11 +68,11 @@ Now at the most trusted levels of this messaging system, there are at least two 
 
 Banks everywhere are seriously considering distributed ledgers, creating their own cryptocurrencies, and seeing how this technology could affect them. For example in Italy 97 member banks of the Italian Banking Association, equalling 91% of the banking sector in terms of employee numbers, have adopted a distributed ledger for their operations (21). The Swedish Central Bank is experimenting with creating its own digital currency, HSBC have enabled a digital asset vault, Asian Bank has integrated, wallets, buying and selling of cryptocurrency as well as wire transactions with crypto, and the US Federal Reserve is working with IBM to develop a blockchain payment system (22, 23).
 
-![Cost savings for banks adopting blockchain technology (22). ](<../../.gitbook/assets/image (7) (1).png>)
+![Cost savings for banks adopting blockchain technology (22). ](<../.gitbook/assets/image (7) (1).png>)
 
 In Proof of Work systems (Bitcoin, Ethereum, etc.), computers are coming to a consensus over the transactions that occurred, this consensus is recorded and one of the computers who aid in the consensus are sent tokens (newly minted Ethereum, Bitcoin, etc.), as well as transaction fees from the person that initiated the transaction, to incentivize this process (every computer has a chance of receiving tokens proportional to the computing power used). The only intermediary necessary to trust for transactions from one person to another are consensus making computers.&#x20;
 
-![Graphic of a transaction over POW](<../../.gitbook/assets/image (8).png>)
+![Graphic of a transaction over POW](<../.gitbook/assets/image (8).png>)
 
 The global annual cost saving from banks adopting blockchain would equate to USD $12 billion (22). Bitcoin has already had a total of 738,999,111 transactions completed on it with USD $4,461,260,000,000 in total value (24). During that same time it created around 19 million Bitcoin, out of the total number that will ever exist of 21 million. Once 21 million Bitcoin are minted, computers won't receive newly minted Bitcoin for their work but instead will receive only the transaction fee that people send to have their transaction sent. During 2010-2020 Bitcoin did this all while having a lower energy impact than US currency.&#x20;
 
@@ -80,21 +80,17 @@ The global annual cost saving from banks adopting blockchain would equate to USD
 
 Though it would be difficult to separate newly minted Bitcoin energy use vs transaction energy use, when transactions are compared to the block size there is a correlation. This shows that the block size (megabyte size) with the amount of transactions on that block.&#x20;
 
-![Showing a growing block size with a growing amount of transactions (25, 26)](<../../.gitbook/assets/image (16).png>)
+![Showing a growing block size with a growing amount of transactions (25, 26)](<../.gitbook/assets/image (16).png>)
 
 With a growing block size there is a growing energy need, however the correlation is weak.&#x20;
 
-![Block size vs power need, the complexity of solving the cryptographic puzzle may affect power need (13, 26)](<../../.gitbook/assets/image (10).png>)
+![Block size vs power need, the complexity of solving the cryptographic puzzle may affect power need (13, 26)](<../.gitbook/assets/image (10).png>)
 
 The transaction value ($USD) has a weak correlation to block size.&#x20;
 
-![Block Size Increase With Transaction Value Increase (24, 26)](<../../.gitbook/assets/image (11).png>)
+![Block Size Increase With Transaction Value Increase (24, 26)](<../.gitbook/assets/image (11).png>)
 
 This means that the value held on Bitcoin could increase, without drastically affecting its energy consumption (USD $1,000 would around the same energy need as a 5,000,000 transaction). If transactions continue to increase on Bitcoin however the energy consumption will continue to increase. This is largely due to how Bitcoin handles value as simple data strings while transactions are complex cryptographic puzzles.&#x20;
-
-## Why
-
-So with Bitcoin consuming a 1/10th the energy of US currencies and lasting infinitely longer, technology improving for increased efficiency, and blockchains already going carbon neutral. Why are there media blasts about cryptocurrency being bad for the environment? Maybe we will find out as we dive deeper into the world of Web3.&#x20;
 
 ## Resources&#x20;
 

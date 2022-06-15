@@ -1,6 +1,6 @@
 # Wealth Distribution
 
-Distribution of wealth in crypto&#x20;
+Distribution of wealth in crypto, how value is flowing out of collapsing economies to cryptocurrency
 
 {% embed url="https://ulir.ul.ie/bitstream/handle/10344/11073/Sai_2021_Characterizing.pdf?sequence=2" %}
 

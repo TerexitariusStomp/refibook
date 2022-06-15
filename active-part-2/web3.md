@@ -1,5 +1,17 @@
 # Web3
 
+Why Does Bitcoin Use Energy
+
+Immutability. Blockchain is automatically checked every 10 minutes. ...
+
+Decentralization. Blockchain is a decentralized technology, which means any information stored in it acts as a unit of the whole network. ...
+
+Enhanced security. ...
+
+Distributed ledger
+
+![](<../.gitbook/assets/image (18).png>)
+
 Web3 layers have
 
 ·        Data storage layer

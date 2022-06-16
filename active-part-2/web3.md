@@ -2,7 +2,21 @@
 
 Why Does Bitcoin Use Energy
 
+{% embed url="https://foam.space/map" %}
+
+{% embed url="https://nexus.io/" %}
+
+[https://blockstream.com/satellite/#](https://blockstream.com/satellite/)
+
+![](<../.gitbook/assets/image (12).png>)
+
+{% embed url="https://txtenna.com/" %}
+
+35 countries have experienced internet shutdowns. According to reports by [Access Now](https://en.wikipedia.org/wiki/Access\_Now) a non-profit digital right group, 25 countries across the globe experienced government-induced internet shutdown 196 times in 2018.[\[85\]](https://en.wikipedia.org/wiki/Internet\_governance#cite\_note-:2-85) In 2019, Access Now reports indicated that 33 countries experienced a government-induced internet shutdown 213 times.[\[85\]](https://en.wikipedia.org/wiki/Internet\_governance#cite\_note-:2-85) The 2020 report from the digital right group implied that 29 countries deliberately shut down their internet 155 times.[\[85\]](https://en.wikipedia.org/wiki/Internet\_governance#cite\_note-:2-85)
+
 Immutability. Blockchain is automatically checked every 10 minutes. ...
+
+Google, Microsoft, Facebook, and Amazon
 
 Decentralization. Blockchain is a decentralized technology, which means any information stored in it acts as a unit of the whole network. ...
 

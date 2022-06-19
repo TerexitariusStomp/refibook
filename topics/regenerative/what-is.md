@@ -1,6 +1,6 @@
 # What Is
 
-![](<../../.gitbook/assets/image (2) (1) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)
 
 {% embed url="https://www.frontiersin.org/articles/10.3389/fbloc.2020.00033/full" %}
 

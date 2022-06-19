@@ -32,11 +32,11 @@ Legitimacy by participation
 
 Legitimacy by process
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (2).png>)
 
 GreenPilled
 
-![](<../../../.gitbook/assets/image (3) (1) (1).png>)
+![](<../../../.gitbook/assets/image (3) (1) (1) (1).png>)
 
 GreenPilled
 

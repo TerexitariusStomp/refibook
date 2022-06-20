@@ -4,7 +4,7 @@
 
 The internet is now highly utilized globally for education, healthcare, business opportunities, etc. Phones are connecting to the internet, allowing global communication and TV has largely now shifted to being an app (Netflix for example) that one can access via their internet connection. There are five components to the web.&#x20;
 
-![There are five components to the web; physical (A), data (B), applications (C), internet (D), and transport (E).](<../.gitbook/assets/image (19).png>)
+![There are five components to the web; physical (A), data (B), applications (C), internet (D), and transport (E).](<../.gitbook/assets/image (21).png>)
 
 ## Physical
 
@@ -56,7 +56,7 @@ The Expansion of Facebook (8).
 
 Applications have regularly occurring outages and or delays. Big tech giants like Microsoft, Reddit and Snapchat are also subject to these outages.&#x20;
 
-![Application outages for the last 24 hours, retrieved on 6/19/22 (9).](<../.gitbook/assets/image (17).png>)
+![Application outages for the last 24 hours, retrieved on 6/19/22 (9).](<../.gitbook/assets/image (19).png>)
 
 ### Internet
 
@@ -66,7 +66,7 @@ Between 2018 and 2020 there were anywhere from 155-213 government-induced intern
 
 The level of internet censorship ranges from short term blackouts and disruptions, to persistent multi-month or multi- year blackouts and disruptions, to somewhat restrictive long-term controls with disruption surges, to highly restrictive long-term structural controls (13). On average an internet outage costs per person anywhere from USD $0.06-$2.36 per day (14). To give one example, in 2022 to today (6/19/22), Russia's internet outage has cost them USD $6,770,000,000 (15). &#x20;
 
-![Internet Outages in last 24 hours taken on 6/19/22 (16).](<../.gitbook/assets/image (16).png>)
+![Internet Outages in last 24 hours taken on 6/19/22 (16).](<../.gitbook/assets/image (17).png>)
 
 One company, Level 3 (acquired by Lumen Technologies), handles sending data to and from (through IP addresses and ASes) just under 80% of the conventional internet (17). This company has been accused of wiretapping Google, Yahoo, and a German Internet Exchange Point on behalf of the National Security Administration of the US (17). Other major companies in this domain (IP addresses and ASes) manage a slight percentage in comparison to Level 3 (such as Cogent, Global Telecom and Technology, TeliaSonera International Carrier, NTT Communications, Tata Communications, Telecom Italia Sparkle). However, they have been caught up in similar legal ordeals. Such as TeliaSonera collaborating with certain dictatorships, allowing them to spy on their citizens, and in 2012 they were investigated for bribery and money laundering in Uzbekistan (17).
 
@@ -78,23 +78,59 @@ A complex system of fiber cables, satellites, receivers and transmitters transpo
 
 4 companies are able to access and utilize anywhere from 70-90% of data on the internet. This creates a dangerous level of centralization. These companies are able to influence governments to individuals in the way they access, interact with and transmit data. Governments can block the data being transmitted and cater it to their liking for the population, which is already done globally. Allowing corporations and governments to control the flow of data allows select individuals to have disproportionate power as compared to the rest of the population. If the top apps were to pay you for the data you generate when using them (Google, Facebook, Twitter, Amazon, etc.), you'd get around $2,000 a year (20). At the same time it would take the average Facebook user alone being paid over $1,000 a year to stop using Facebook (21).&#x20;
 
-![Known examples of centralization of web2 (5, 7, 17). ](<../.gitbook/assets/image (21).png>)
+![Known examples of centralization of web2 (5, 7, 17). ](<../.gitbook/assets/image (23).png>)
 
+## Web3
 
+Web 3.0 entails that internet access will be universal and ubiquitous, across regions, networks, and devices. completely open-source architecture that anyone can use, modify, monetise, and extend without any restrictions.
 
+Open-source architecture will also encourage greater accountability, as peer reviews will be more common
 
+Web3 is the internet owned by the builders and users, orchestrated with tokens.
 
-Physical
+open, transparent, decentralized, peer-to-peer.
 
-Data
+### User and Creator Incentivisation
 
-Applications
+Web 3.0 will aim for a better balance in creator economics. Right now, there are few checks and balances on how online creators are compensated for their work – and a small percentage often receives a disproportionate share of incentives.
 
-Internet&#x20;
+**Trustless and permissionless**
 
-Transport
+Meanwhile, the concept of user incentivisation does not exist at all. For example, users may be rewarded with tokens or cryptocurrency for willingly sharing their data to keep things transparent.
 
+This kind of clear incentivisation will be a big part of the Web 3.0 experience in order to drive accountability among every stakeholder.
 
+### Decentralisation and Interoperability
+
+### Login
+
+Crypto wallet
+
+### Physical
+
+To take the first step into web3, take your computer, mobile phone or other electronic device and replace it's operating system with a privacy preserving open source one (such as Linux or Tails). This operating system will allow you to keep personal control of your data, unlike Microsoft, Apple and other operating systems. In terms of what the device is, it doesn't really matter. Electronic devices will continue to be produced no matter the web version we are on or operating system we use.&#x20;
+
+All electronic devices (cellphones, smartwatches, sensors, computers, headphones, etc.) are able to be a part of web3. Most people don't want to run a lot of electronic devices that have a lot of storage space and computing power, some do. Event then, it's unlikely that you are always using all of the computing power and storage space that your electronic devices have. At times when this computing power and storage space is not in use by you, it should still be able to benefit you. Decentralized storage  (Filecoin, Storj, IPFS, Arweave, etc.) and computing power systems (Golem, iExec, Sonm) allow you to sell excess storage and computing power when not in use. At the same time it allows you to purchase storage and computing power when needs demand, all while maintaining anonymity. The potential for this means that you could pay to trigger an analysis that needs the computing capacity of several super computers from your smartwatch or someone can pay to upload their data, retain sole control of it and have versions of it spread across hundreds of computers.&#x20;
+
+Electronic devices that are part of web3 will be able to receive and transmit in an ever increasing number of wavelengths (such as bluetooth, wifi, radio and other relay techniques) as well as translate them into other forms (such as translating radio into wifi).&#x20;
+
+### Data
+
+Interacting with the web is where it gets tricky in terms of data. Even the most advanced web browsers (TOR, Brave Browser, etc.) are profiting from the data of their users (22, 23). Codes on most websites track information on the people that visit them (such as Javascript). Though this code is not directly owned by any one organization. It's used by several, such as Google Analytics, as something that can be put into the website to track more info on the people that are visiting it. Google Analytics is used on 55.7% of all websites and caters data not only for those websites but for Google as a company (that's not to mention tracking done by Google Scripts) (24). TOR, Brave and other browsers don't pay their user base for the data collected of them by Javascript, instead they fund their organizations with this money (TOR has the ability for users to opt out). Luckily TOR, Brave and other browsers are open source and can be forked. Integrating the ability in this forked version of a browser can allow users to have ownership of this data and monetize off it using data marketplaces (Ocean Protocol, dClimate, etc.).&#x20;
+
+### Applications
+
+Applications for video sharing (Youtube, Tik Tok), social media (Facebook, Instagram), messaging and video calls (Zoom, Skype), Music (Spotify, Pandora) are already becoming decentralized. If you look up decentralized applications in front of each of the types of applications you are interested in, it will show a list of dapps already available.&#x20;
+
+### Internet&#x20;
+
+In web2 interacting on the internet is routed through domain names, DNS, and IP addresses. In web3 these interactions are routed through decentralized naming conventions (like ethereum name service, ENS) that are tied to a contract address (mix of letters and numbers that looks like 0x2D237B830B6dC666439b963B2C0871E3e7f6C020). &#x20;
+
+### Transport
+
+Fiber transport layers are fragile as they break by getting gnawed by rodents, have a limited life span, and only distribute to areas attached to their cables. Satellites are likely to become an increasing transport layer. Satellite systems for transporting blockchains (such as Bitcoin) are already appearing (such as Blockstream Satellites). However, entities (such as governments) are able to block electromagnetic wavelengths (such as radio) from these satellites for receivers. The most powerful blockers known can only block a wavelength in a buffer of up to 125 miles (25). If receivers outside of this buffer are still able to receive it, the signal could be relayed through small range network connections, such as mesh networks. These networks connect to electronic devices to communicate with each other through the electromagnetic spectrum (bluetooth, wifi, radio and other relay techniques) (Helium, FOAM, TxTenna). Any electronic device, could be relayers in a mesh network. These same devices could also potentially serve as translators for altering the communication into another wavelength in the electromagnetic spectrum (such as translating radio to wifi). When an entity blocks the signal from a receiver the mesh network can send a message to transfer to another wavelength (for both transmission and reception). As there are almost an unlimited amount of wavelengths, using coordination, it would be very difficult to block.&#x20;
+
+`Product idea: Login to the device through crypto wallet, create a virtual machine run Linux/ Tails on it, Fork TOR so no data is sold through organization and people have the choice to sell their data to benefit them, allow people to opt in their devices for decentralized storage and computing power systems, if they opt in for decentralized storage allowing that storage to be accessible to data markets, allow that computer to become a multi wavelength transceiver and translator.`&#x20;
 
 1: [https://healthit.com.au/how-big-is-the-internet-and-how-do-we-measure-it/#:\~:text=In%202020%2C%20the%20amount%20of,information%20consumed%20by%20web%20traffic.](https://healthit.com.au/how-big-is-the-internet-and-how-do-we-measure-it/)
 
@@ -138,7 +174,13 @@ Transport
 
 21:  [https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207101](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207101)
 
-Amazon offers their own centralized storage for blockchains- [https://aws.amazon.com/blogs/database/part-1-store-off-chain-data-using-amazon-managed-blockchain-and-amazon-s3/](https://aws.amazon.com/blogs/database/part-1-store-off-chain-data-using-amazon-managed-blockchain-and-amazon-s3/)
+22: [https://www.tor.com/privacy-notice/#:\~:text=to%20Contact%20Us-,Information%20We%20Collect,Sites%20or%20from%20third%20parties.](https://www.tor.com/privacy-notice/)
+
+23: [https://brave.com/privacy/browser/#brave-talk](https://brave.com/privacy/browser/#brave-talk)
+
+24: [https://w3techs.com/technologies/details/ta-googleanalytics](https://w3techs.com/technologies/details/ta-googleanalytics)
+
+25: [https://www.afcea.org/content/jam-proof-signals-guide-navigation](https://www.afcea.org/content/jam-proof-signals-guide-navigation)
 
 [https://en.wikipedia.org/wiki/List\_of\_countries\_by\_number\_of\_Internet\_users](https://en.wikipedia.org/wiki/List\_of\_countries\_by\_number\_of\_Internet\_users)
 
@@ -206,17 +248,7 @@ Another, called Proof of History (PoH), developed by the Solana Project and simi
 
 ![](<../.gitbook/assets/image (6) (1).png>)
 
-Why Does Bitcoin Use Energy
 
-{% embed url="https://foam.space/map" %}
-
-{% embed url="https://nexus.io/" %}
-
-[https://blockstream.com/satellite/#](https://blockstream.com/satellite/)
-
-![](<../.gitbook/assets/image (12).png>)
-
-{% embed url="https://txtenna.com/" %}
 
 Immutability. Blockchain is automatically checked every 10 minutes. ...
 
@@ -228,15 +260,7 @@ Distributed ledger
 
 ![](<../.gitbook/assets/image (18) (1).png>)
 
-Web3 layers have
-
-·        Data storage layer
-
 ·        Consensus layer
-
-·        End-Use Layer
-
-·        Data Traffic Layer
 
 While PoW and PoS are by far the most prevalent in the blockchain space, there are other consensus algorithms like [Proof of Capacity](https://www.investopedia.com/terms/p/proof-capacity-cryptocurrency.asp) (PoC) which allow sharing of memory space of the contributing nodes on the blockchain network. The more memory or hard disk space a node has, the more rights it is granted for maintaining the public ledger. [Proof of Activity](https://www.investopedia.com/terms/p/proof-activity-cryptocurrency.asp) (PoA), used on the [Decred](https://www.investopedia.com/news/decred-cryptocurrency-combines-pow-pos/) blockchain, is a hybrid that makes use of aspects of both PoW and PoS. [Proof of Burn](https://www.investopedia.com/terms/p/proof-burn-cryptocurrency.asp) (PoB) is another that requires transactors to send small amounts of cryptocurrency to inaccessible wallet addresses, in effect "burning" them out of existence.
 
@@ -248,4 +272,28 @@ Another, called Proof of History (PoH), developed by the Solana Project and simi
 
 ![The cycle of proof of work (23). ](<../.gitbook/assets/image (2) (1).png>)
 
-Mesh networks allow users to maintain communications with one another without relying on the internet or SMS services; instead, they leverage Bluetooth or Wi-Fi technology to create a chain of devices that can send messages to one another when they are in the same vicinity
+
+
+&#x20;Alchemy, Moralis- to communicate with blockchains, you need to run a node. Essentially, nodes are pieces of software that connect with other nodes on the same chain. As such, nodes enable you to speak with the chain (the blockchain network) and access its data. The problem is that running a node is a full-time job. In most cases, it requires a team for maintenance, proper backup, and much more. Thus, it is not a proper solution for developers. That is why there are several specialized [blockchain node providers](https://moralis.io/infura-alternatives-and-blockchain-node-providers/?utm\_source=blog\&utm\_medium=post\&utm\_campaign=Exploring%2520the%2520Web3%2520Tech%2520Stack%2520%25E2%2580%2593%2520Full%2520Guide) that devote all their time to running nodes.
+
+State changes on this state machine are governed by the rules of consensus that the peers in the network follow.
+
+One more thing to know: data can only be written to the Ethereum blockchain — you can never update existing data.
+
+A smart contract is a program that runs on the Ethereum blockchain and defines the logic behind the state changes happening on the blockchain. Smart contracts are written in high-level languages, such as Solidity or Vyper.
+
+smart contract code is stored on the Ethereum blockchain, anyone can inspect the application logic of all smart contracts on the network
+
+Up next, you have the Ethereum Virtual Machine, which executes the logic defined in the smart contracts and processes the state changes that happen on this globally accessible state machine.
+
+The EVM doesn’t understand high-level languages like Solidity and Vyper, which are used to write smart contracts. Instead, you have to compile the high-level language down into bytecode, which the EVM can then execute.
+
+![](<../.gitbook/assets/image (14).png>)
+
+Once you connect to the blockchain through a provider (metamask), you can read the state stored on the blockchain. But if you want to write to the state, there’s still one more thing you need to do before you can submit the transaction to the blockchain— “sign” the transaction using your private key.
+
+nodes can give you the raw data from the blockchain. However, unfortunately, that raw data is rather useless.
+
+![](<../.gitbook/assets/image (18).png>)
+
+Application programming interface (API) is a set of definitions and protocols for building and integrating apps That way, you can obtain all sorts of useful precompiled and precalculated on-chain data

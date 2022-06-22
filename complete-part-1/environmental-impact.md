@@ -84,7 +84,7 @@ Though it would be difficult to separate newly minted Bitcoin energy use vs tran
 
 With a growing block size there is a growing energy need, however the correlation is weak.&#x20;
 
-![Block size vs power need, the complexity of solving the cryptographic puzzle may affect power need (13, 26)](<../.gitbook/assets/image (10).png>)
+![Block size vs power need, the complexity of solving the cryptographic puzzle may affect power need (13, 26)](<../.gitbook/assets/image (10) (1).png>)
 
 The transaction value ($USD) has a weak correlation to block size.&#x20;
 

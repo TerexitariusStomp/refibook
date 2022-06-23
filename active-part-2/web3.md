@@ -4,7 +4,7 @@
 
 The internet is now highly utilized globally for education, healthcare, business opportunities, etc. Phones are connecting to the internet, allowing global communication and TV has largely now shifted to being an app (Netflix for example) that one can access via their internet connection. There are five components to the web.&#x20;
 
-![There are five components to the web; physical (A), data (B), applications (C), internet (D), and transport (E).](<../.gitbook/assets/image (26).png>)
+![There are five components to the web; physical (A), data (B), applications (C), internet (D), and transport (E).](<../.gitbook/assets/image (26) (1).png>)
 
 ## Physical
 
@@ -88,9 +88,9 @@ Progression of people being connected to the web until 2012 (8)
 
 ## Web3
 
-Core concepts in web3 are **bolded** in the paragraph below.&#x20;
+_Core concepts in web3 are **bolded** in the paragraph below._&#x20;
 
-Web 3.0 is own, read, write. In order to interact with the web, people need to own hardware. What is done on this hardware is up to the individual and the data that is created from interacting with the hardware is owned by the individual, **self sovereignty**. People are able to read anything that is part of web3 as all the base code is meant to be **open source.** Another core concept of web3, **transparency**. As the code is open source anyone can do a permissionless **fork** and build new iterations of that code. Codes work together and **interoperate** to create web3. When people write on this web, they sign transactions and with this transaction the web is further developed. As writing is creating new **data**, the writer needs to be compensated for their contribution. Often times this transaction is done through **tokens**. As anyone is able to purchase hardware that can engage with web3, anyone can actively participate and further develop web3. There is no intermediary that says you can and can't do a transaction. Empowering a **decentralized** network for continued contributions.&#x20;
+Web 3.0 is own, read, write. In order to interact with the web, people need to own hardware. What is done on this hardware is up to the individual and the data that is created from interacting with the hardware is owned by the individual, **self sovereignty**. People are able to read anything that is part of web3 as all the base code is meant to be **open source (transparency)**. As the code is open source anyone can do a permissionless **fork** and build new iterations of that code. Codes work together and **interoperate** to create web3. When people write on this web, they sign transactions and with this transaction the web is further developed. As writing is creating new **data**, the writer needs to be compensated for their contribution. Often times this transaction is done through **tokens**. As anyone is able to purchase hardware that can engage with web3, anyone can actively participate and further develop web3. When they develop web3, they can do so **anonymously**. There is no intermediary that says you can and can't do a transaction. Empowering a **decentralized** network for continued contributions.&#x20;
 
 The components of Web3 are a wallet, smart contracts, blocks, blockchains, indexers, physical, data, apps, internet, transmission, AI and machine learning.
 
@@ -98,21 +98,21 @@ The components of Web3 are a wallet, smart contracts, blocks, blockchains, index
 
 ### Wallet
 
-## wallet: Elliptic Curve Digital Signature Algorithm-  public and private key  <a href="#firstheading" id="firstheading"></a>
+The frontend of Web3 can be viewed through any browser (for example type in [https://uniswap.org/](https://uniswap.org/)). However, in order to do anything that changes web3 a wallet needs to be used. A wallet is a combination of a public and a private key. Keys are hashed so the resulting output looks similar to "0x2D237B830B6dC666439b963B2C0871E3e7f6C020" publicly. Hashing is the process of transforming characters (letters or numbers) into another value (can play with hashing here: (23)). In order to read on web3 the wallet needs to be unlocked by a person. A person unlocks their wallet with their private key (like a password unlocks an account). In order to write on web3 (carry out a transaction), a signature needs to be used.  The person signs a new write, with a digital signature. Anyone can have a million wallets, each one of these wallets can be anonymous (not able to be traced back to a specific person).&#x20;
 
-Bitcoin uses public-private key pairs and digital signatures to sign transactions
+### Smart Contracts
 
+A smart contract is a program that runs on the blockchain and defines the logic behind transactions. Smart contracts are written in high level languages (such as solidity, vyper, rust, etc.).   Anyone should be able to view the smart contracts as they are open source. Once smart contracts are written they are compiled into bytecode so they can be executed.&#x20;
 
+There are four different layers where smart contracts operate the data layer, system layer, function layer, and execution layer. The execution layer&#x20;
 
-Once you connect to the blockchain through a provider (metamask), you can read the state stored on the blockchain. But if you want to write to the state, there’s still one more thing you need to do before you can submit the transaction to the blockchain— “sign” the transaction using your private key.
+![Four Layers of Smart Contracts: V- Data Layer, X System Layer, Y Function Layer, Z Execution Layer. Grey Represents immutability- the wider the grey the more mutable it is](<../.gitbook/assets/image (26).png>)
 
-able to show that online trust increases when personally identifiable information is disclosed
+The execution layer is code that is regularly needing to be updated, such as the frontend of the website. These updates do not alter functionality of web3. The function layer is how people do transactions on web3. The function layer can be updated by adding a new smart contract that adds a new component of functionality. Once a transaction is set in motion, the system layer relays that transaction to the rest of the network. System layer is about the network level and are smart contracts around participation incentives, encryption, anonymity, consensus mechanism or network permissions. Changes to system layer can be done, however this results in splits in the network (those who agree to the update vs those that don't agree with it). Due to this, system properties are only conditionally immutable (immutable on the condition that everyone agrees with everything that has been done thus far). The conditions are of interest to users, investors and regulators and have to be published upfront ideally within the first whitepaper. The data layer is any data that is stored on the blockchain, after a few blocks of confirmation this layer is considered to be immutable.&#x20;
 
-if a technology does not allow the identification of individuals, the likelihood of inappropriate actions increases and therefore, the technology will be considered as less trustworthy
+## Blocks
 
-When users perceive that they remain anonymous in their use of technology, it seems that users tend to rely on technological measures, such as the immutability of information, to build trust. In contrast, if users perceive that they are identifiable when using technology, the immutability of information seems to be less relevant. Thus, during the use of technology, users seem to be subject to a kind of social control, which is also in line with the accountability theory.
-
-Crypto wallet
+Once a person triggers a transaction through a smart contract and their wallet, computers that are part of the network pick their transaction to include in the block. Transactions are prioritized based upon the amount of transaction fees paid, the ones that have paid the highest transaction fees are picked first (gas). &#x20;
 
 ### Physical
 
@@ -186,7 +186,9 @@ Fiber transport layers are fragile as they break by getting gnawed by rodents, h
 
 22: [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8717702](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8717702)
 
-23: [https://www.tor.com/privacy-notice/#:\~:text=to%20Contact%20Us-,Information%20We%20Collect,Sites%20or%20from%20third%20parties.](https://www.tor.com/privacy-notice/)
+23: [https://xorbin.com/tools/sha256-hash-calculator](https://xorbin.com/tools/sha256-hash-calculator)
+
+22: [https://www.tor.com/privacy-notice/#:\~:text=to%20Contact%20Us-,Information%20We%20Collect,Sites%20or%20from%20third%20parties.](https://www.tor.com/privacy-notice/)
 
 24: [https://brave.com/privacy/browser/#brave-talk](https://brave.com/privacy/browser/#brave-talk)
 
@@ -276,17 +278,7 @@ State changes on this state machine are governed by the rules of consensus that 
 
 One more thing to know: data can only be written to the Ethereum blockchain — you can never update existing data.
 
-A smart contract is a program that runs on the Ethereum blockchain and defines the logic behind the state changes happening on the blockchain. Smart contracts are written in high-level languages, such as Solidity or Vyper.
-
-smart contract code is stored on the Ethereum blockchain, anyone can inspect the application logic of all smart contracts on the network
-
-Up next, you have the Ethereum Virtual Machine, which executes the logic defined in the smart contracts and processes the state changes that happen on this globally accessible state machine.
-
-The EVM doesn’t understand high-level languages like Solidity and Vyper, which are used to write smart contracts. Instead, you have to compile the high-level language down into bytecode, which the EVM can then execute.
-
 ![](<../.gitbook/assets/image (18).png>)
-
-
 
 nodes can give you the raw data from the blockchain. However, unfortunately, that raw data is rather useless.
 
@@ -314,9 +306,7 @@ If one possesses a computational power which is higher than 50% of the computati
 
 split into two different Ethereum blockchains, breaching the immutability by a fork- ethereum and ethereum classic
 
-(1) The execution layer at the bottom of figure 1 represents the software code execution running locally on the users' hardware and that operates on the IT infrastructure. It forms the basis for the following layers. Changes on this layer are performance, stability or security improvements. They do not alter functionalities for participants, carried data, network properties or consensus mechanism as experienced by the users. If well documented and transparent, e. g. as blog entries on a regular schedule, such changes are part of the maintenance work and will not in general negatively impact the trust of the users. (2) The function layer concerns the related functions allowing the users to work with the data. Changes on this layer between local execution and system layer may be a 4 Due to technical reasons downward compatibility may be broken in some cases, which can lead to divisions. 5 Note that a change in data management does not have to be contrary to blockchain data immutability. concern for trust and consistency, as decisions to cut or add data may concern central blockchain properties such as historical completeness. On the other side, additional functions to implement a contract or function to check data may not be a great concern for trust, but part of regular application development, which needs to be communicated. Therefore, functional changes have to be verified for their system impact and if necessary handled purely under the system layer. In case neither data nor system rules are changed, the changes can be handled as code updates. Changes only on the function and execution layer can and will typically occur frequently and are not of concern for the immutability of a blockchain. (3) The system layer concerns the users’ interactions with the blockchain on the network level, respectively system properties such as participation incentives, encryption, anonymity, consensus mechanism or network permissions. Changes on this layer require common understanding within a peer network about the specific modalities of the modifications (if, when and how) before implementation, as they have the potential to affect common agreement and subsequently trust so strongly, that they can cause network splits as demonstrated by the "DAO wars" (see chapter 3). They should be clearly marked and communicated well in advance to allow a sufficient discussion. Even more important is however, the predefinition of the modalities for such cases to set a clear frame for the handling. Changes on the system layer are thus to be considered possible, if the conditions for them are described and agreed in advance. Due to this, system properties are only conditionally immutable. The conditions are of interest to users, investors and regulators and have to be published upfront ideally within the first whitepaper and. (4) The data layer concerns the data stored on the blockchain and thus data immutability, as any nonconsensual changes of data violates the historic consistency and completeness of the blockchain. In general, data is only added and there are no conditions under which data on the blockchain can be removed. The historic data is to be seen as immutable. It has to be noted however, that it can be temporarily uncertain, whether data is already consensually accepted depending on the duration of the
 
-![](<../.gitbook/assets/image (13).png>)
 
 [https://www.researchgate.net/profile/Ralf-Elbert/publication/342044445\_Trust-Building\_Effects\_of\_Blockchain\_Features\_-\_An\_Empirical\_Analysis\_of\_Immutability\_Traceability\_and\_Anonymity/links/5edf7d5a45851516e661c50a/Trust-Building-Effects-of-Blockchain-Features-An-Empirical-Analysis-of-Immutability-Traceability-and-Anonymity.pdf](https://www.researchgate.net/profile/Ralf-Elbert/publication/342044445\_Trust-Building\_Effects\_of\_Blockchain\_Features\_-\_An\_Empirical\_Analysis\_of\_Immutability\_Traceability\_and\_Anonymity/links/5edf7d5a45851516e661c50a/Trust-Building-Effects-of-Blockchain-Features-An-Empirical-Analysis-of-Immutability-Traceability-and-Anonymity.pdf)
 
@@ -324,15 +314,9 @@ generate trust due to the traceability of all transactions(Abeyratne and Monfare
 
 [https://link.springer.com/article/10.1007/s12525-019-00392-5?error=co](https://link.springer.com/article/10.1007/s12525-019-00392-5?error=co)
 
-Trust refers to the willingness of a party to be vulnerable to the actions of another party based on the expectation that the other party will perform an action important to the trustor, irrespective of the ability to monitor or control that other party (Mayer et al. [1995](https://link.springer.com/article/10.1007/s12525-019-00392-5#ref-CR30)). Trust is a dynamic concept that develops over time (Luna-Reyes et al. [2004](https://link.springer.com/article/10.1007/s12525-019-00392-5#ref-CR29)). It is an individual’s reliance on another person under conditions of dependence and risk (Kramer and Tyler [1996](https://link.springer.com/article/10.1007/s12525-019-00392-5#ref-CR22)). Reliance allows another person to take control of one’s assets. A trustor is someone who holds certain expectations about the other party, while the trustee is a person or an entity that is assessed by the trustor (Becerra and Gupta [2003](https://link.springer.com/article/10.1007/s12525-019-00392-5#ref-CR2)).
-
 coin transfers, immutability, openness, and decentralization are the functional attributes of Bitcoin, responsible for creating trust among the users
 
 Cryptocurrency transactions are now able to t is be decrypted- **SHA256** algorithm
-
-
-
-Play with hasing- [https://xorbin.com/tools/sha256-hash-calculator](https://xorbin.com/tools/sha256-hash-calculator)
 
 Recall that one property of a cryptographic hash function is the inability to deduce any of the input by looking at the output. Hence, we have no idea what values of _W_ will yield a hash with the desired properties. Servers have to try trillions of values with the hope that they will get lucky and find a value that yields the desired hash. This process of searching for _W_ is called **mining**.
 
@@ -485,10 +469,6 @@ Let's estimate the cost of a 51% attack which reverses a year of bitcoin transac
 Forks occur v0.8.0 over v0.7.0 chain
 
 Person 1 transacts with person 2
-
-V- Data Layer, X System Layer, Y Function Layer, Z Execution Layer
-
-
 
 
 

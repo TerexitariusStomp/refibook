@@ -80,29 +80,37 @@ A complex system of fiber cables, satellites, receivers and transmitters transpo
 
 ![Known examples of centralization of web2 (5, 7, 17). ](<../.gitbook/assets/image (29).png>)
 
+When the internet started, the intention was to build a common decentralized network with equal participation, that communicated peer to peer without relying on a single intermediary. Along with that an important consideration was that computers must be interoperable among dissimilar systems, so that more devices could be a part of the network (22). Problems with centralization have arisen, however it's not too late to alter course, large parts of the world are still not connected to the web.&#x20;
+
+{% embed url="https://cdn3.vox-cdn.com/assets/4463779/nRzfTEu.gif" %}
+Progression of people being connected to the web until 2012 (8)
+{% endembed %}
+
 ## Web3
 
-Web 3.0 entails that internet access will be universal and ubiquitous, across regions, networks, and devices. completely open-source architecture that anyone can use, modify, monetise, and extend without any restrictions.
+Core concepts in web3 are **bolded** in the paragraph below.&#x20;
 
-Open-source architecture will also encourage greater accountability, as peer reviews will be more common
+Web 3.0 is own, read, write. In order to interact with the web, people need to own hardware. What is done on this hardware is up to the individual and the data that is created from interacting with the hardware is owned by the individual, **self sovereignty**. People are able to read anything that is part of web3 as all the base code is meant to be **open source.** Another core concept of web3, **transparency**. As the code is open source anyone can do a permissionless **fork** and build new iterations of that code. Codes work together and **interoperate** to create web3. When people write on this web, they sign transactions and with this transaction the web is further developed. As writing is creating new **data**, the writer needs to be compensated for their contribution. Often times this transaction is done through **tokens**. As anyone is able to purchase hardware that can engage with web3, anyone can actively participate and further develop web3. There is no intermediary that says you can and can't do a transaction. Empowering a **decentralized** network for continued contributions.&#x20;
 
-Web3 is the internet owned by the builders and users, orchestrated with tokens.
+The components of Web3 are a wallet, smart contracts, blocks, blockchains, indexers, physical, data, apps, internet, transmission, AI and machine learning.
 
-open, transparent, decentralized, peer-to-peer.
+![Components of web3: A- Wallet, B- Smart Contracts, C- Blocks, D- Blockchains, E- Indexers, F- Physical, G- Data, H- Apps, I- Internet, J- Transmission, K- AI and Machine Learning](<../.gitbook/assets/image (27).png>)
 
-### User and Creator Incentivisation
+### Wallet
 
-Web 3.0 will aim for a better balance in creator economics. Right now, there are few checks and balances on how online creators are compensated for their work – and a small percentage often receives a disproportionate share of incentives.
+## wallet: Elliptic Curve Digital Signature Algorithm-  public and private key  <a href="#firstheading" id="firstheading"></a>
 
-**Trustless and permissionless**
+Bitcoin uses public-private key pairs and digital signatures to sign transactions
 
-Meanwhile, the concept of user incentivisation does not exist at all. For example, users may be rewarded with tokens or cryptocurrency for willingly sharing their data to keep things transparent.
 
-This kind of clear incentivisation will be a big part of the Web 3.0 experience in order to drive accountability among every stakeholder.
 
-### Decentralisation and Interoperability
+Once you connect to the blockchain through a provider (metamask), you can read the state stored on the blockchain. But if you want to write to the state, there’s still one more thing you need to do before you can submit the transaction to the blockchain— “sign” the transaction using your private key.
 
-### Login
+able to show that online trust increases when personally identifiable information is disclosed
+
+if a technology does not allow the identification of individuals, the likelihood of inappropriate actions increases and therefore, the technology will be considered as less trustworthy
+
+When users perceive that they remain anonymous in their use of technology, it seems that users tend to rely on technological measures, such as the immutability of information, to build trust. In contrast, if users perceive that they are identifiable when using technology, the immutability of information seems to be less relevant. Thus, during the use of technology, users seem to be subject to a kind of social control, which is also in line with the accountability theory.
 
 Crypto wallet
 
@@ -115,6 +123,8 @@ All electronic devices (cellphones, smartwatches, sensors, computers, headphones
 Electronic devices that are part of web3 will be able to receive and transmit in an ever increasing number of wavelengths (such as bluetooth, wifi, radio and other relay techniques) as well as translate them into other forms (such as translating radio into wifi).&#x20;
 
 ### Data
+
+Metaverse
 
 Interacting with the web is where it gets tricky in terms of data. Even the most advanced web browsers (TOR, Brave Browser, etc.) are profiting from the data of their users (22, 23). Codes on most websites track information on the people that visit them (such as Javascript). Though this code is not directly owned by any one organization. It's used by several, such as Google Analytics, as something that can be put into the website to track more info on the people that are visiting it. Google Analytics is used on 55.7% of all websites and caters data not only for those websites but for Google as a company (that's not to mention tracking done by Google Scripts) (24). TOR, Brave and other browsers don't pay their user base for the data collected of them by Javascript, instead they fund their organizations with this money (TOR has the ability for users to opt out). Luckily TOR, Brave and other browsers are open source and can be forked. Integrating the ability in this forked version of a browser can allow users to have ownership of this data and monetize off it using data marketplaces (Ocean Protocol, dClimate, etc.).&#x20;
 
@@ -174,31 +184,19 @@ Fiber transport layers are fragile as they break by getting gnawed by rodents, h
 
 21:  [https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207101](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207101)
 
-22: [https://www.tor.com/privacy-notice/#:\~:text=to%20Contact%20Us-,Information%20We%20Collect,Sites%20or%20from%20third%20parties.](https://www.tor.com/privacy-notice/)
+22: [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8717702](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8717702)
 
-23: [https://brave.com/privacy/browser/#brave-talk](https://brave.com/privacy/browser/#brave-talk)
+23: [https://www.tor.com/privacy-notice/#:\~:text=to%20Contact%20Us-,Information%20We%20Collect,Sites%20or%20from%20third%20parties.](https://www.tor.com/privacy-notice/)
 
-24: [https://w3techs.com/technologies/details/ta-googleanalytics](https://w3techs.com/technologies/details/ta-googleanalytics)
+24: [https://brave.com/privacy/browser/#brave-talk](https://brave.com/privacy/browser/#brave-talk)
 
-25: [https://beincrypto.com/2-2-million-bored-ape-nfts-stolen-opensea-freezes-transactions/](https://beincrypto.com/2-2-million-bored-ape-nfts-stolen-opensea-freezes-transactions/)
+25: [https://w3techs.com/technologies/details/ta-googleanalytics](https://w3techs.com/technologies/details/ta-googleanalytics)
 
-26: [https://www.afcea.org/content/jam-proof-signals-guide-navigation](https://www.afcea.org/content/jam-proof-signals-guide-navigation)
+26: [https://beincrypto.com/2-2-million-bored-ape-nfts-stolen-opensea-freezes-transactions/](https://beincrypto.com/2-2-million-bored-ape-nfts-stolen-opensea-freezes-transactions/)
+
+27: [https://www.afcea.org/content/jam-proof-signals-guide-navigation](https://www.afcea.org/content/jam-proof-signals-guide-navigation)
 
 [https://en.wikipedia.org/wiki/List\_of\_countries\_by\_number\_of\_Internet\_users](https://en.wikipedia.org/wiki/List\_of\_countries\_by\_number\_of\_Internet\_users)
-
-![](<../.gitbook/assets/image (9).png>)
-
-Social Networks
-
-[https://www.vox.com/a/internet-maps](https://www.vox.com/a/internet-maps)&#x20;
-
-{% embed url="https://cdn3.vox-cdn.com/assets/4463779/nRzfTEu.gif" %}
-
-
-
-Mesh  Networks
-
-{% embed url="https://cdn3.vox-cdn.com/assets/4463779/nRzfTEu.gif" %}
 
 [https://twitter.com/coin98analytics/status/1430526409051492352?lang=en](https://twitter.com/coin98analytics/status/1430526409051492352?lang=en)
 
@@ -213,10 +211,6 @@ Why Does Bitcoin Use Energy
 2022-06-15- Hashrate 222.16 EH/s
 
 [https://hal.archives-ouvertes.fr/hal-03610424/document](https://hal.archives-ouvertes.fr/hal-03610424/document)
-
-![](broken-reference)
-
-
 
 Immutability. Blockchain is automatically checked every 10 minutes. ..
 
@@ -292,11 +286,9 @@ The EVM doesn’t understand high-level languages like Solidity and Vyper, which
 
 ![](<../.gitbook/assets/image (18).png>)
 
-Once you connect to the blockchain through a provider (metamask), you can read the state stored on the blockchain. But if you want to write to the state, there’s still one more thing you need to do before you can submit the transaction to the blockchain— “sign” the transaction using your private key.
+
 
 nodes can give you the raw data from the blockchain. However, unfortunately, that raw data is rather useless.
-
-![](<../.gitbook/assets/image (23).png>)
 
 Application programming interface (API) is a set of definitions and protocols for building and integrating apps That way, you can obtain all sorts of useful precompiled and precalculated on-chain data
 
@@ -316,29 +308,19 @@ launch some satellites
 
 Whenever we talk about the future, the [metaverse](https://www.plainconcepts.com/metaverse-companies/) is one of the first words that come to mind. Well, this new version of the Internet could be perfectly integrated with this virtual universe, allowing 3D designs of websites, as well as adding IoT devices in its periphery.
 
-[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8717702](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8717702)
-
-The original Internet service architecture was to build a common decentralized network with equal participation, that communicated using peer to peer interconnectivity without relying on a single computer \[1]. Another important consideration of the original Internet’s plan was that computers must be interoperable among dissimilar systems, so that more devices could be a part of the network.
-
-![](<../.gitbook/assets/image (12).png>)
-
 [https://www.inno.tu-berlin.de/fileadmin/a38335100/PDF\_Dateien/Publikationen/T-PROC-KALEI-2017-PDF-E-Hofmann.pdf](https://www.inno.tu-berlin.de/fileadmin/a38335100/PDF\_Dateien/Publikationen/T-PROC-KALEI-2017-PDF-E-Hofmann.pdf)
 
 If one possesses a computational power which is higher than 50% of the computational power of the whole network, one can try to delete a transaction from the blockchain by sending a modified blockchain as consensus. Bitcoin's hash power sums up to more than 10,000,000 TH/s at the end of October 2017 \[29], which means that about 740,741 units of one of the strongest miner (Antminer S9, 13.5 TH/s, 1265 dollars apiece as of 4th October, 2017, see \[30] and \[31]) are needed. This would cost around 937 million dollars not including electricity costs and other needed efforts.
 
 split into two different Ethereum blockchains, breaching the immutability by a fork- ethereum and ethereum classic
 
+(1) The execution layer at the bottom of figure 1 represents the software code execution running locally on the users' hardware and that operates on the IT infrastructure. It forms the basis for the following layers. Changes on this layer are performance, stability or security improvements. They do not alter functionalities for participants, carried data, network properties or consensus mechanism as experienced by the users. If well documented and transparent, e. g. as blog entries on a regular schedule, such changes are part of the maintenance work and will not in general negatively impact the trust of the users. (2) The function layer concerns the related functions allowing the users to work with the data. Changes on this layer between local execution and system layer may be a 4 Due to technical reasons downward compatibility may be broken in some cases, which can lead to divisions. 5 Note that a change in data management does not have to be contrary to blockchain data immutability. concern for trust and consistency, as decisions to cut or add data may concern central blockchain properties such as historical completeness. On the other side, additional functions to implement a contract or function to check data may not be a great concern for trust, but part of regular application development, which needs to be communicated. Therefore, functional changes have to be verified for their system impact and if necessary handled purely under the system layer. In case neither data nor system rules are changed, the changes can be handled as code updates. Changes only on the function and execution layer can and will typically occur frequently and are not of concern for the immutability of a blockchain. (3) The system layer concerns the users’ interactions with the blockchain on the network level, respectively system properties such as participation incentives, encryption, anonymity, consensus mechanism or network permissions. Changes on this layer require common understanding within a peer network about the specific modalities of the modifications (if, when and how) before implementation, as they have the potential to affect common agreement and subsequently trust so strongly, that they can cause network splits as demonstrated by the "DAO wars" (see chapter 3). They should be clearly marked and communicated well in advance to allow a sufficient discussion. Even more important is however, the predefinition of the modalities for such cases to set a clear frame for the handling. Changes on the system layer are thus to be considered possible, if the conditions for them are described and agreed in advance. Due to this, system properties are only conditionally immutable. The conditions are of interest to users, investors and regulators and have to be published upfront ideally within the first whitepaper and. (4) The data layer concerns the data stored on the blockchain and thus data immutability, as any nonconsensual changes of data violates the historic consistency and completeness of the blockchain. In general, data is only added and there are no conditions under which data on the blockchain can be removed. The historic data is to be seen as immutable. It has to be noted however, that it can be temporarily uncertain, whether data is already consensually accepted depending on the duration of the
+
 ![](<../.gitbook/assets/image (13).png>)
 
 [https://www.researchgate.net/profile/Ralf-Elbert/publication/342044445\_Trust-Building\_Effects\_of\_Blockchain\_Features\_-\_An\_Empirical\_Analysis\_of\_Immutability\_Traceability\_and\_Anonymity/links/5edf7d5a45851516e661c50a/Trust-Building-Effects-of-Blockchain-Features-An-Empirical-Analysis-of-Immutability-Traceability-and-Anonymity.pdf](https://www.researchgate.net/profile/Ralf-Elbert/publication/342044445\_Trust-Building\_Effects\_of\_Blockchain\_Features\_-\_An\_Empirical\_Analysis\_of\_Immutability\_Traceability\_and\_Anonymity/links/5edf7d5a45851516e661c50a/Trust-Building-Effects-of-Blockchain-Features-An-Empirical-Analysis-of-Immutability-Traceability-and-Anonymity.pdf)
 
 generate trust due to the traceability of all transactions(Abeyratne and Monfared, 2016; Wickboldt and Kliewer, 2019).
-
-able to show that online trust increases when personally identifiable information is disclosed
-
-if a technology does not allow the identification of individuals, the likelihood of inappropriate actions increases and therefore, the technology will be considered as less trustworthy
-
-When users perceive that they remain anonymous in their use of technology, it seems that users tend to rely on technological measures, such as the immutability of information, to build trust. In contrast, if users perceive that they are identifiable when using technology, the immutability of information seems to be less relevant. Thus, during the use of technology, users seem to be subject to a kind of social control, which is also in line with the accountability theory.
 
 [https://link.springer.com/article/10.1007/s12525-019-00392-5?error=co](https://link.springer.com/article/10.1007/s12525-019-00392-5?error=co)
 
@@ -356,13 +338,11 @@ Recall that one property of a cryptographic hash function is the inability to de
 
 When a server finds a value of _W_ that yields the desired hash, it advertises that value to the entire set of bitcoin servers. Upon receiving this message, it is trivial for a server to validate the proof of work by simply computing _hash(B, A, W)_ with the _W_ sent in the message and checking the resultant value. The servers then add the block, which contains the Proof of Work number and the winner’s address, onto the blockchain.
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (15) (1).png>)
 
 ![](<../.gitbook/assets/image (7).png>)
 
 used by Bitcoin and Ethereum servers to migrate copies of the transaction log- set of hashes
-
-Bitcoin uses public-private key pairs and digital signatures to sign transactions
 
 Transactions are sent to all the participating servers. Each system keeps a **complete copy** of the entire ledger, which records all transactions from the very first one. Currently the bitcoin ledger is about [400 GB](https://www.blockchain.com/en/charts/blocks-size).
 
@@ -376,9 +356,7 @@ Recall that one property of a cryptographic hash function is the inability to de
 
 When a server finds a value of _W_ that yields the desired hash, it advertises that value to the entire set of bitcoin servers. Upon receiving this message, it is trivial for a server to validate the proof of work by simply computing _hash(B, A, W)_ with the _W_ sent in the message and checking the resultant value. The servers then add the block, which contains the Proof of Work number and the winner’s address, onto the blockchain.
 
-Bitcoin’s mining difficulty is adjusted every 2,016 blocks, which corresponds to approximately 14 days, to keep the average rate at which blocks are added to the blockchain at 10 minutes. This allows the network to handle changes in the number of miners participating in computing the proof work.
-
-## wallet: Elliptic Curve Digital Signature Algorithm-  public and private key  <a href="#firstheading" id="firstheading"></a>
+Bitcoin’s mining difficulty is adjusted every 2,016 blocks, which corresponds to approximately 14 days, to keep the average rate at which blocks are added to the blockchain at 10 minutes. This allows the network to handle changes in the number of miners participating in computing the proof work
 
 
 
@@ -451,7 +429,7 @@ PoW= Fd(c|x) ® SHA256(SHA256(h|x) ≦ 2 224/d The Bitcoin Universe 13 where h c
 
 ![](<../.gitbook/assets/image (30).png>)
 
-![](<../.gitbook/assets/image (27).png>)
+![](<../.gitbook/assets/image (27) (1).png>)
 
 
 
@@ -505,6 +483,10 @@ First, they would install more mining capacity than the rest of the network put 
 Let's estimate the cost of a 51% attack which reverses a year of bitcoin transactions. At the current bitcoin price of $1,500 and reward of 15 bitcoins (including transaction fees) per 10-minute block, miners earn around $1.2bn per year ($1500 × 15 × 6 × 24 × 365). Assuming (reasonably) that they are not losing money overall, or at least not losing much, this means that total miner expenses must also be in the same range.
 
 Forks occur v0.8.0 over v0.7.0 chain
+
+Person 1 transacts with person 2
+
+V- Data Layer, X System Layer, Y Function Layer, Z Execution Layer
 
 
 

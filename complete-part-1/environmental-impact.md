@@ -60,7 +60,7 @@ In order to do this exchange a messaging system is needed. The messaging acknowl
 
 Here's an example of how a bank messaging system works. Arnold has just bought something from Butch and needs to pay Butch for that item. They either put in their card info (VISA/ MASTERCARD) or their bank info and the bank info of Butch, the receiving bank (SWIFT). The amount needing to be paid to Butch is either automatically updated via the item description or it is manually input. From there a message is sent to the bank saying that this amount of money is needing to be sent to Butch. In the case of SWIFT that the banks have a direct relationship (trust each other), the money is sent from Arnold's bank (Bank A) to Butch's bank (Bank B), if these banks don't have a relationship the transaction is sent through trusted intermediaries until it finally arrives at Butch's bank. During card transactions, especially credit cards, the card transaction is sent through as many as six to eight intermediaries (20).&#x20;
 
-![Example of Currency Transmission ](<../.gitbook/assets/image (11) (1) (1).png>)
+![Example of Currency Transmission ](<../.gitbook/assets/image (11) (1) (1) (1).png>)
 
 Now at the most trusted levels of this messaging system, there are at least two intermediaries (Bank A and Bank B). Both of these banks likely have physical locations with energy costs, the messaging network needs energy, and all of this needs a lot of people.&#x20;
 
@@ -88,7 +88,7 @@ With a growing block size there is a growing energy need, however the correlatio
 
 The transaction value ($USD) has a weak correlation to block size.&#x20;
 
-![Block Size Increase With Transaction Value Increase (24, 26)](<../.gitbook/assets/image (11) (1).png>)
+![Block Size Increase With Transaction Value Increase (24, 26)](<../.gitbook/assets/image (11) (1) (1).png>)
 
 This means that the value held on Bitcoin could increase, without drastically affecting its energy consumption (USD $1,000 would around the same energy need as a 5,000,000 transaction). If transactions continue to increase on Bitcoin however the energy consumption will continue to increase. This is largely due to how Bitcoin handles value as simple data strings while transactions are complex cryptographic puzzles.&#x20;
 

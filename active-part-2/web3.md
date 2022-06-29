@@ -24,7 +24,7 @@ Once the data is generated, people want to communicate with other people about i
 
 Structuring is just one part of sending data, the other aspect is the actual infrastructure needed to do so. Fiber networks, cables able to send data to and from parts of the world at high speeds, span throughout our world. Satellite systems, such as [Starlink](https://www.starlink.com/), are also able to transport this data. &#x20;
 
-## Problems with Web2
+## Issues with Web2
 
 ### Physical
 

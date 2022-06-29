@@ -104,7 +104,7 @@ The frontend of Web3 can be viewed through any browser (for example type in [htt
 
 A smart contract is a program that runs on the blockchain and defines the logic behind transactions. Smart contracts are written in high level languages (such as solidity, vyper, rust, etc.).   Anyone should be able to view the smart contracts as they are open source. Once smart contracts are written they are compiled into bytecode so they can be executed.&#x20;
 
-There are four different layers where smart contracts operate the data layer, system layer, function layer, and execution layer. The execution layer&#x20;
+There are four different layers where smart contracts operate the data layer, system layer, function layer, and execution layer.&#x20;
 
 ![Four Layers of Smart Contracts: V- Data Layer, X System Layer, Y Function Layer, Z Execution Layer. Grey Represents immutability- the wider the grey the more mutable it is](<../.gitbook/assets/image (26).png>)
 

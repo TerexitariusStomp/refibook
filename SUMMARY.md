@@ -53,3 +53,4 @@
 * [Resources](resources.md)
 * [Organizations](organizations.md)
 * [dESG](desg.md)
+* [Glossary](glossary.md)

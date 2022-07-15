@@ -28,7 +28,7 @@ Structuring is just one part of sending data, the other aspect is the actual inf
 
 ### Physical
 
-In North Korea the physical components that people are able to purchase easily are heavily modified so that North Korea can control what data their population has access to and easilly access the data that the population creates (3). This control of the physical layer is able to be replicated in other parts of the world and likely has.&#x20;
+In North Korea the physical components that people are able to purchase easily are heavily modified so that North Korea can control what data their population has access to and easily access the data that the population creates (3). This control of the physical layer is able to be replicated in other parts of the world and likely has.&#x20;
 
 Lenovo, HP Inc and Dell have over 50% of the global PC market share (4). Microsoft has strategic alliances and partnerships with each of these companies, increasing the reach of Microsoft to at least 50% of PCs in terms of hardware. The operating systems installed on the physical layers of computers are around 90% of the time from Microsoft (5).&#x20;
 
@@ -85,12 +85,6 @@ Progression of people being connected to the web until 2012 (8)
 {% endembed %}
 
 ## Web3
-
-`Currently web3 is ran on web2, though web3 could be done through carrier pigeons, smoke signals, or wire fences.`
-
-_Core concepts in web3 are **bolded** in the paragraph below._&#x20;
-
-Web 3.0 is own, read, write. In order to interact with the web, people need to own hardware. What is done on this hardware is up to the individual and the data that is created from interacting with the hardware is owned by the individual, **self sovereignty**. People are able to read anything that is part of web3 as all the base code is meant to be **open source (transparency)**. As the code is open source anyone can do a permissionless **fork** and build new iterations of that code. Codes work together and **interoperate** to create web3. When people write on this web, they sign transactions and with this transaction the web is further developed. As writing is creating new **data**, the writer needs to be compensated for their contribution. Often times this transaction is done through **tokens**. As anyone is able to purchase hardware that can engage with web3, anyone can actively participate and further develop web3. When they develop web3, they can do so **anonymously**. There is no intermediary that says you can and can't do a transaction. Empowering a **decentralized** network for continued contributions.&#x20;
 
 The components of Web3 are a wallet, smart contracts, blocks, blockchains, indexers, physical, data, apps, internet, transmission, AI and machine learning.
 
@@ -183,6 +177,32 @@ As most of the data that is part of web3 is able to be accessed through reading 
 ### Metaverse
 
 The way in which we interact with web3 and the data on it will likely transform into 3 dimensions, especially with further integration of IOT devices in our lives. Various metaverses, alternate online 3 dimensional realities, will be created based upon community values.&#x20;
+
+## Web3
+
+`Currently web3 is ran on web2, though web3 could be done through carrier pigeons, smoke signals, or wire fences.`
+
+_Core concepts in web3 are **bolded** in the paragraph below._&#x20;
+
+Web 3.0 is own, read, write. In order to interact with the web, people need to own hardware. What is done on this hardware is up to the individual and the data that is created from interacting with the hardware is owned by the individual, **self sovereignty**. People are able to read anything that is part of web3 as all the base code is meant to be **open source (transparency)**. As the code is open source anyone can do a permissionless **fork** and build new iterations of that code. Codes work together and **interoperate** to create web3. When people write on this web, they sign transactions and with this transaction the web is further developed. As writing is creating new **data**, the writer needs to be compensated for their contribution. Often times this transaction is done through **tokens**. As anyone is able to purchase hardware that can engage with web3, anyone can actively participate and further develop web3. When they develop web3, they can do so **anonymously**. There is no intermediary that says you can and can't do a transaction. Empowering a **decentralized** network for continued contributions.&#x20;
+
+## Self Sovereignty&#x20;
+
+## Open Source
+
+## Fork&#x20;
+
+## Interoperate
+
+## Data
+
+## Tokens
+
+## Anonymously
+
+## Decentralized
+
+Decentralized Physical
 
 `Product idea: Login to a device through a crypto wallet, create a virtual machine run Linux/ Tails on it, Fork TOR so no data is sold through organization and people have the choice to sell their data to benefit them on data markets, allow people to opt in their devices for decentralized storage and computing power systems, if they opt in for decentralized storage allowing that storage to be accessible to data markets, allow that computer to become a multi wavelength transceiver and translator. Integrate further components of web3 into this as they become applicable.` &#x20;
 

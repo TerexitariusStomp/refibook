@@ -1,23 +1,34 @@
 # Equity
 
-Gini coefficient measurements
+The Gini coefficient is a widely used statistical measure for evaluating economic inequality in a society or a population. It calculates a value from zero to one- zero denoting perfect equality where everyone would get an equal proportion of the wealth and one denoting perfect inequality where one individual would hold all the wealth and the rest would possess nothing. In other words, Gini refers to the deviation from wealth distribution of a hypothetical perfectly equal society. A society that values and strives for equality amongst all individuals, irrespective of their race, gender, socioeconomic background, religion, language, age, and nationality- a gini score of zero would be a perfectly equal society.
 
-Significant inequalities in income and wealth are found when specific socially defined categories of people are compared. Among the most pervasive of these variables are sex/gender, race, and ethnicity as they contribute to great factors in society as they form and limit many parts of the economy.
+The effect of cryptocurrency on the Gini coefficient, is an intriguing topic. With the decreased need for traditional financial intermediaries, some experts predict that cryptocurrencies have the potential to reduce the inequality gap by providing alternative financial opportunities to underserved populations. Cryptocurrencies hold incredible potential to shrink the inequality gap worldwide. By providing alternative financial opportunities that were previously unavailable to underserved populations, they can help foster economic growth and create greater financial stability. However, some believe that the highly volatile nature of cryptocurrencies could lead to increased risk in investment, as opposed to traditional forms of currency. This could potentially lead to greater levels of inequality as those who have more knowledge and experience with cryptocurrency investment could potentially profit more than those who do not. Nonetheless, the impact of cryptocurrency on financial inequality remains a highly debated topic.
+
+Achieving a Gini score of zero in any society appears unlikely. When all actors are given absolute freedom, a considerable degree of inequality is expected since everyone is motivated differently in pursuing wealth and adopts strategies that push their personal interests. On the other hand, a society that aims for complete equality may suppress freedom, limiting individual behavior and efforts to earn rewards based on talent and diligence. Empowering individuals who seek to achieve a greater level of equity is a fundamental principle of web3. This means providing everyone with equal access and opportunities to embrace blockchain and crypto, regardless of their socioeconomic status, race, gender, or other attributes. By making web3 a platform for decentralization and democratization, we can create a more equitable future for all.
+
+Taking all of the aforementioned points into consideration, we are in need of a well-crafted web3 system that allows sufficient room for builders to be recognized and rewarded for their valuable contributions. This is of utmost importance in order to not only foster, but also sustain incentives for intelligent and ambitious individuals to build and grow within the ecosystem. However, it also implies an added responsibility and tinge of pressure on builders and the ecosystem as a whole, to construct in a manner that provides ample opportunities for participants who may be less-advantaged.
+
+Access to technology plays a crucial role in determining how equal and equitable a society can be and how much it is able to embrace web3. The availability and affordability of the internet and other technological tools are notable disparities between Africa, Europe, and the USA- discrepancies that also hold true for other parts of the world. Not being able to access the internet makes participation in web3 (and by association cryptocurrency) less accessible, limiting people's opportunities to engage with the global community. Creating more inclusive access is, therefore, a critical action to take towards reducing such inequalities. The provision of satellite internet at a affordable price can help increase access to internet.&#x20;
+
+<figure><img src="../.gitbook/assets/internet.PNG" alt=""><figcaption><p>Inequality in the access to internet (1). </p></figcaption></figure>
+
+Once access to the internet is established, individuals require hardware, such as a phone, to interact with it. Inexpensive and readily available, phones are one of the most popular devices used to access the internet. However, an individual's ability to have a phone may be influenced by various variables, such as their socioeconomic status, religion, or gender. For instance, individuals who are economically disadvantaged might be unable to afford the cost of a phone or reliable internet connection. Similarly, gender and religious biases may prevent individuals from having access to this technology.&#x20;
+
+<figure><img src="../.gitbook/assets/phoneownership.PNG" alt=""><figcaption><p>National gender differences in phone ownership (2).</p></figcaption></figure>
+
+Once a person has at least a phone and internet they can start participating in web3. No one gets excluded from Web3 because it is permissionless. As soon as an individual starts interacting with a piece of hardware like a phone, they are generating data. Data in the web2 model and individuals not claiming ownership of it or wanting to be paid for the use of it, has lead to massive corporations like Facebook and Google. In a web3 world, individuals would have ownership of this data and get paid for it, the minute they start interacting with the hardware.&#x20;
+
+Another way to immediately start participating in an ecosystem is by running a blockchain validator. Example of a blockchain validator
+
+Sources
+
+1: [https://www.imf.org/en/Blogs/Articles/2020/06/29/low-internet-access-driving-inequality](https://www.imf.org/en/Blogs/Articles/2020/06/29/low-internet-access-driving-inequality)
+
+2: [https://ourworldindata.org/grapher/share-of-individuals-who-own-a-mobile-telephone-by-sex](https://ourworldindata.org/grapher/share-of-individuals-who-own-a-mobile-telephone-by-sex)
+
+
 
 The top 10,000 bitcoin investors own a combined 5 million BTC, representing 0.01% of all BTC holders, but controlling 27% of the digital currency.
-
-Unfortunately, ownership of laptops, desktops and high-speed internet services still lag in American black and Hispanic communities (have an internet coverage global map)&#x20;
-
-6% of black males in technology&#x20;
-
-* No one gets excluded from Web3 because it is permissionless. Everyone’s access to participate in Web3 is equal.
-* women on Nifty Gateway account for less than 16% of artists in the marketplace
-
-But Web2, the current era of the internet defined by companies built on proprietary data (such as Facebook and Google), started with a similar promise of empowering individual creators and removing intermediaries — a promise left unfulfilled.
-
-A society in which all actors are completely free is likely to result in a significant amount of inequality, since individuals differ in their motivation to pursue wealth and will behave in ways that advance their own interests. Conversely, a society that is completely equal inhibits freedom, since individuals cannot behave in any way that causes them to be unequal to others — even if that unequal outcome is “earned” through hard work or skill.
-
-t leaves space for builders to be rewarded for their contributions, which is necessary to foster incentives for smart, ambitious people to build in the ecosystem. At the same time, it places a burden on those builders — and the ecosystem as a whole — to build in a way that creates opportunity for less-advantaged participants.
 
 * Don’t build a system that only benefits the wealthy, because what if you’re poor?
 * Don’t build a system that disproportionately favors firstcomers, because what if you’re not embedded in networks that give you early access to knowledge?

@@ -2,6 +2,8 @@
 
 * [How To](README.md)
 * [About Authors](about-authors.md)
+* [Page 1](page-1.md)
+* [Introduction to Cryptoeconomics](introduction-to-cryptoeconomics.md)
 * [Introduction](<README (2).md>)
 * [Complete: Part 1](complete-part-1/README.md)
   * [Environmental Impact](complete-part-1/environmental-impact.md)

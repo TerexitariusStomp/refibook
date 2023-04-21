@@ -122,7 +122,7 @@ This means that the value held on Bitcoin could increase, without drastically af
 
 14: de Best, 2022 [https://www.statista.com/statistics/247280/number-of-bitcoins-in-circulation/](https://www.statista.com/statistics/247280/number-of-bitcoins-in-circulation/)&#x20;
 
-15: NYTImes, 2021 [**https://www.nytimes.com/interactive/2021/09/03/climate/bitcoin-carbon-footprint-electricity.html**](https://www.nytimes.com/interactive/2021/09/03/climate/bitcoin-carbon-footprint-electricity.html)****
+15: NYTImes, 2021 [**https://www.nytimes.com/interactive/2021/09/03/climate/bitcoin-carbon-footprint-electricity.html**](https://www.nytimes.com/interactive/2021/09/03/climate/bitcoin-carbon-footprint-electricity.html)
 
 16: CryptoClimate, 2022 [https://cryptoclimate.org/](https://cryptoclimate.org/)
 

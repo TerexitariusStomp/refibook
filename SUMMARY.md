@@ -11,6 +11,7 @@
   * [Web3](complete-part-2/web3.md)
 * [Active: Part 3](active-part-3/README.md)
   * [Equity](active-part-3/equity.md)
+  * [Governance](active-part-3/governance.md)
   * [Capital](active-part-3/capital.md)
   * [Disaster Currency](active-part-3/disaster-currency.md)
 * [Topics](topics/README.md)
